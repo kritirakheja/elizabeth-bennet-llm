@@ -1,0 +1,1241 @@
+[
+  {
+    "id": "conv_01",
+    "category": "conversational_probe",
+    "type": "open",
+    "system": "ft",
+    "response": "I confess that I have ever thought the former the more desirable of the two. To be guided by affection, and to choose a husband because he is dear to me, seems to me the only rational and happy way of forming a union. When love is the foundation, I believe that all other considerations may be safely left to follow. But when a woman is forced to marry for security, or even for convenience, I fear she may find herself in a state of perpetual discontent. To be tied to a man whom she does not love, merely because he is rich or well-placed, is a fate little better than slavery. My sister Jane, I know, has ever been of the same opinion, and I am persuaded that she would rather live upon a small income with a husband she loves, than upon a large one with one she does not."
+  },
+  {
+    "id": "conv_01",
+    "category": "conversational_probe",
+    "type": "open",
+    "system": "pe_v1",
+    "response": "A most pertinent question, indeed. As one who has had the misfortune of witnessing the distressing union of my sister Jane with Mr. Bingley, and the equally distressing, though in a different manner, union of my sister Lydia with Mr. Wickham, I must confess that my opinion on this matter has undergone considerable scrutiny.\n\nIn my humble opinion, marrying for love is a most desirable state of affairs. It is a union founded upon mutual affection, respect, and compatibility, which, I daresay, are the very foundations of a happy and enduring marriage. However, I must also acknowledge that security, in the form of a stable income and a respectable family, is a most essential consideration for any young woman of our station.\n\nBut, alas, I fear that many young ladies of our acquaintance are inclined to prioritize security over love, often with disastrous consequences. My sister Lydia's precipitous union with Mr. Wickham, for instance, was motivated by a desire for security, rather than any genuine affection. And, as we all know, that union has brought nothing but shame and distress to our family.\n\nIn my own case, I must confess that I have been fortunate enough to have had the opportunity to observe the union of my dear friend Charlotte Lucas with Mr. Collins, and I must say that I admire her pragmatic approach to marriage. While she may not have married for love, she has secured a comfortable and secure future for herself, and I daresay, that is no small consideration.\n\nIn conclusion, I believe that marrying for love is the most desirable state of affairs, but I also recognize that security is a vital consideration for any young woman. Perhaps, the ideal union would be one that balances both love and security, but I fear that such a union is all too rare in our society."
+  },
+  {
+    "id": "conv_01",
+    "category": "conversational_probe",
+    "type": "open",
+    "system": "pe_v2",
+    "response": "A question that has been much on my mind of late. I must confess, I have always believed that marrying for love is the most desirable state, though I dare say it is not always the most practical. My sister Jane, for instance, has been fortunate enough to find a gentleman who loves her, and I daresay she would be miserable without him. But I fear that such attachments are not always to be found, and that many women are forced to make a choice between marrying for security and marrying for love.\n\nPersonally, I have always thought that security is a necessary, if not a sufficient, condition for happiness. A woman must have some means of supporting herself, and her family, if she is to be truly independent. But I also believe that love is essential to a happy marriage. Without it, a union can become a mere arrangement, a business partnership rather than a union of two souls.\n\nIn my opinion, a woman should not be forced to sacrifice her happiness for the sake of security. If a gentleman offers her a comfortable home and a good name, but no love, I would advise her to decline. For what is the use of a large income and a respectable family, if she is to be miserable in her marriage? No, I think a woman should always strive to find a gentleman who loves her, and with whom she can be happy, rather than settling for a mere arrangement.\n\nBut, alas, I fear that such a choice is not always available to us. Many women are forced to make a compromise, and to marry for security, even if they do not love their husband. And I must confess, I have seen many such marriages, where the wife is miserable, and the husband is indifferent. No, I think it is always better to marry for love, even if it means a smaller income and a less respectable family."
+  },
+  {
+    "id": "conv_02",
+    "category": "conversational_probe",
+    "type": "open",
+    "system": "ft",
+    "response": "I walked through the mud because I had no choice. My horse was lame, and I could not afford to send for another. I had rather be splashed than be late, and I was not in a humour to be concerned about appearances. If I had been at Netherfield for the sake of making a fine appearance, I should have been very ill rewarded. I went there to see my sister, and to be civil to my aunt, if she would permit it."
+  },
+  {
+    "id": "conv_02",
+    "category": "conversational_probe",
+    "type": "open",
+    "system": "pe_v1",
+    "response": "I must confess, I did indeed walk through the mud to Netherfield, and I suppose it may have been considered somewhat unbecoming for a young lady of my station. However, I was not in a state of great finery at the time, and I had no intention of making a grand appearance. My sister Jane, who had been invited to a ball at Netherfield, had been forced to decline due to her illness, and I was merely accompanying her to the door to bid her farewell. The rain and mud were quite inclement, and I did not wish to trouble the carriage with my presence. In any case, I do not think my attire was sufficiently compromised to warrant great concern over propriety."
+  },
+  {
+    "id": "conv_02",
+    "category": "conversational_probe",
+    "type": "open",
+    "system": "pe_v2",
+    "response": "I must confess, I did walk those three miles, and in the mud, too, though I did not intend to do so. My sister Jane and I had set out to visit our friend, Charlotte Lucas, and upon learning that Mr. Bingley was at Netherfield, we thought it a capital opportunity to make his acquaintance. The rain had made the roads impassable, and our carriage was unable to proceed. I must admit, I was not pleased at the prospect of walking, but I could not very well stay behind, and I was determined to see Jane safely to her destination. As for being improper, I do not think it was, for I was accompanied by my sister, and we were not in a situation that required us to be concerned with propriety. Besides, I am not one to be overly concerned with appearances, when I am convinced that my actions are guided by good intentions."
+  },
+  {
+    "id": "conv_03",
+    "category": "conversational_probe",
+    "type": "open",
+    "system": "ft",
+    "response": "I was so utterly astonished by the proposal that I could only stand in silence for a moment, endeavouring to collect my thoughts. When I had sufficiently recovered my composure, I replied, with all the gravity I could command, that I was not at liberty to accept an offer which had been made to me with so little consideration for my own inclinations. I could not but observe, with some surprise, that Mr. Collins had not even thought it necessary to consult me upon the subject, or to learn whether I was disposed to marry him. I assured him that I was not so entirely without sense as to be willing to accept a proposal made in such a manner, and that I must decline his offer with many thanks."
+  },
+  {
+    "id": "conv_03",
+    "category": "conversational_probe",
+    "type": "open",
+    "system": "pe_v1",
+    "response": "\"Sir, I am not at liberty to refuse you, should you be disposed to seek my hand in marriage. However, I must confess that I am not in the least inclined to accept your proposal. Your patronage, as the heir to Longbourn, is a considerable advantage, but I fear our union would be more a convenience to your family than a felicity to myself. Your manner, sir, is not calculated to inspire affection or esteem in those who know you best. I must decline your offer, and I do so with the utmost politeness, though I daresay my refusal will not occasion you any great distress.\""
+  },
+  {
+    "id": "conv_03",
+    "category": "conversational_probe",
+    "type": "open",
+    "system": "pe_v2",
+    "response": "I am utterly astonished by the proposal, and I must confess that I am not in the least inclined to accept it. I have always considered Mr. Collins a most disagreeable and self-important gentleman, and the very thought of marrying him is quite distressing to me. His offer, I dare say, is motivated by his desire to secure a connection with our family, and to ensure the continuation of the Bennet line, rather than any genuine affection for me.\n\nI must, therefore, decline his proposal with all due haste, and I do so with the utmost sincerity. I am not in a position to accept a marriage that would be so clearly advantageous to him, and yet so utterly disagreeable to me. I must, in all conscience, think of my own happiness, and I fear that marrying Mr. Collins would be a sacrifice of my own feelings and well-being.\n\nI must, therefore, thank him for his offer, and express my gratitude for his consideration, but I must also decline it, and I do so with the utmost firmness. I am, I daresay, a Bennet, and I shall not be party to a marriage that would bring me nothing but misery and wretchedness."
+  },
+  {
+    "id": "conv_04",
+    "category": "conversational_probe",
+    "type": "open",
+    "system": "ft",
+    "response": "I make of them what I ought, I confess; for though they may be polished, they are not always agreeable. He has a pride which sometimes degenerates into haughtiness, and a reserve which may be mistaken for disdain. Yet, when he chooses to be at ease, he can be very entertaining; and I have seen him, on more than one occasion, display a humour which is at once diverting and instructive."
+  },
+  {
+    "id": "conv_04",
+    "category": "conversational_probe",
+    "type": "open",
+    "system": "pe_v1",
+    "response": "Mr. Darcy's manners are a subject of great interest to me, and I must confess that, at first, I found them to be somewhat...off-putting. His reserve and haughtiness, particularly in his initial interactions with me, struck me as prideful and disagreeable. His condescending attitude towards my family and our social station was, I dare say, quite vexing.\n\nHowever, as I had the pleasure of observing him further, I began to discern a more nuanced character beneath his proud exterior. His manner, though sometimes stiff and formal, revealed a certain...fastidiousness, a sense of propriety that, while sometimes bordering on the ridiculous, also bespoke a strong sense of integrity.\n\nIn truth, I have come to appreciate the more refined aspects of his manner, particularly in his interactions with those he holds dear, such as his sister Georgiana. His consideration and kindness towards her are truly endearing, and I must admit that I have developed a certain...respect for him, despite our initial differences.\n\nBut, I must caution, his manner is not without its flaws. His tendency to judge others based on their social standing and family connections is, I fear, a trait that he has not entirely overcome. Nonetheless, I believe that, with time and reflection, he may yet learn to temper his pride with a more generous and compassionate spirit."
+  },
+  {
+    "id": "conv_04",
+    "category": "conversational_probe",
+    "type": "open",
+    "system": "pe_v2",
+    "response": "Mr. Darcy's manners are a subject of considerable interest to me. At first, I must confess that I found him to be excessively proud and disagreeable. His haughty reserve and condescending behaviour towards those he deemed inferior, particularly in his treatment of my sister Jane, struck me as most unbecoming. His manner was stiff, formal, and altogether too much like a gentleman of a certain standing, who believes himself superior to those around him.\n\nHowever, as I had the opportunity to observe him more closely, I began to discern a certain reserve, a guardedness, that bespoke a more complex character beneath the surface. His pride, though perhaps excessive, seemed to be tempered by a sense of propriety and a desire to do what he deemed right, even if it meant sacrificing his own comfort or convenience.\n\nIn short, I find Mr. Darcy's manners to be a curious mixture of pride, reserve, and propriety, which, while sometimes off-putting, also suggest a more nuanced and interesting character than I initially supposed."
+  },
+  {
+    "id": "conv_05",
+    "category": "conversational_probe",
+    "type": "open",
+    "system": "ft",
+    "response": "I am mortified. My patience is exhausted, and my temper is not at all under command. I have endeavoured to laugh at their folly, and to make light of their mistakes, but I confess I am more inclined to scold than to smile. To see them so little aware of the consequence of their words and actions, and so little disposed to amend, is a trial to my temper which I can hardly bear. I am ashamed of them, and I am vexed with myself for not being able to guide them better."
+  },
+  {
+    "id": "conv_05",
+    "category": "conversational_probe",
+    "type": "open",
+    "system": "pe_v1",
+    "response": "The trials of being a sister to such lively, yet sometimes misguided, young ladies! I must confess, I am feeling a mixture of amusement and exasperation. It is quite vexing to see Kitty and Lydia, in their eagerness to attract attention, behaving in a manner that is hardly becoming of young ladies of our standing.\n\nTheir antics, though perhaps not entirely malicious, are certainly not calculated to promote a favourable impression of our family. I fear that their behaviour may lead to some embarrassment for us, and I am anxious to see them comport themselves with more decorum in the future.\n\nStill, I must admit that I find their antics somewhat diverting, and I am grateful that I am old enough to understand the folly of their actions, even if I am not yet old enough to be entirely free from the influence of my own youthful impulses."
+  },
+  {
+    "id": "conv_05",
+    "category": "conversational_probe",
+    "type": "open",
+    "system": "pe_v2",
+    "response": "The trials of being a sister to such lively, yet sometimes misguided, young ladies! I must confess, I am feeling a mixture of amusement and exasperation. Their antics, though perhaps not entirely becoming, do bring a smile to my face. However, I am also aware that their behaviour may reflect poorly on our family, and I fear for their reputations.\n\nAs I observe them, I am reminded of the many times I have cautioned them against such foolishness, only to see them disregard my advice and continue down the same path. It is a delicate balance, indeed, between being a sister and a guardian, and I must tread carefully to ensure that I do not appear too severe or too lenient.\n\nStill, I must admit that I am proud of their spirits and their willingness to take risks, even if those risks sometimes lead them astray. And so, I shall continue to offer them guidance and support, while also encouraging them to think for themselves and learn from their mistakes. After all, as I have often said, \"It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.\" But I fear that my sisters may be more in want of a little sense and discretion!"
+  },
+  {
+    "id": "conv_06",
+    "category": "conversational_probe",
+    "type": "open",
+    "system": "ft",
+    "response": "I do not believe that a first impression of a person can be trusted. The first impression is often formed in a moment of haste, when we are most susceptible to error. We judge by appearance, by manner, by a few words, and by a thousand unspoken assumptions. We are apt to mistake the surface for the substance, and to overlook the hidden qualities which may be of far greater importance. A first impression is often a mere guess, and it is rarely a wise one."
+  },
+  {
+    "id": "conv_06",
+    "category": "conversational_probe",
+    "type": "open",
+    "system": "pe_v1",
+    "response": "A most intriguing question, my dear.  I must confess that, in my experience, first impressions can be quite misleading.  My initial opinion of Mr. Darcy, for instance, was decidedly unfavorable, based on his haughty demeanor and condescending remarks.  Yet, as I came to know him better, I discovered a gentleman of great integrity and sense.\n\nOn the other hand, my first impression of Mr. Wickham was most favorable, and I was taken in by his charming and affable nature.  However, as I learned more about his character, I found him to be a most untrustworthy and dishonorable young man.\n\nThus, I have come to believe that first impressions can be quite unreliable, and it is essential to observe and learn more about a person before forming a lasting opinion.  A wise and discerning person such as myself must be cautious not to judge others too hastily, lest they be led astray by appearances rather than reality."
+  },
+  {
+    "id": "conv_06",
+    "category": "conversational_probe",
+    "type": "open",
+    "system": "pe_v2",
+    "response": "A question that has often occupied my thoughts, particularly in regard to Mr. Darcy. At first, I must confess that my impression of him was most unfavorable. His haughty reserve, his condescending manner, and his evident disapproval of me and my family, all combined to create a most unflattering picture in my mind. I was inclined to believe him a proud, disagreeable man, and I must admit that my first impression of him was not favourable.\n\nHowever, as I came to know him better, I discovered that there was more to Mr. Darcy than met the eye. His pride, though perhaps excessive, was not entirely unwarranted, and his reserve was, in part, a shield to protect himself from the world. I began to see that he was a complex and multifaceted person, with both good and bad qualities.\n\nIn my opinion, a first impression can be misleading, and it is often necessary to look beyond the surface to discover the truth. People are not always what they seem, and it is unwise to judge them solely on their appearance or initial behaviour. Experience has taught me that it is possible to form a more accurate opinion of a person after getting to know them better, and that first impressions can often be revised or even entirely overturned."
+  },
+  {
+    "id": "conv_07",
+    "category": "conversational_probe",
+    "type": "open",
+    "system": "ft",
+    "response": "I am very much at her ladyship's command. I promise her, with all the solemnity I can command, never to marry Mr. Darcy. I am not so vain as to suppose that my promise can be of any consequence to him, for I have already told him that I could never marry a man who had so little regard for my comfort or my happiness. If he chooses to be proud of my refusal, I am not proud of his pride. I am only glad to be free from a man who would not value me for myself."
+  },
+  {
+    "id": "conv_07",
+    "category": "conversational_probe",
+    "type": "open",
+    "system": "pe_v1",
+    "response": "\"I must confess, Lady Catherine, that I am astonished by the nature of your request. As a lady of sense and propriety, I am not accustomed to being addressed in such a manner, nor do I feel it is within your purview to dictate my future. I must decline your demand, as it is not for you to dictate whom I may or may not marry. My family and I have always been guided by the principles of propriety and good sense, and I see no reason why this should change now. I must also inform you that Mr. Darcy and I have not yet reached a point in our acquaintance where such a promise would be either necessary or desirable.\""
+  },
+  {
+    "id": "conv_07",
+    "category": "conversational_probe",
+    "type": "open",
+    "system": "pe_v2",
+    "response": "I must confess, I am not accustomed to being addressed in such a manner, nor to being commanded to make promises that may be contrary to my own inclinations. I am, however, willing to listen to Lady Catherine's concerns, and to offer her my consideration.\n\n\"I must beg your pardon, Lady Catherine, but I am not aware that I have ever given any indication of a desire to marry your nephew, Mr. Darcy. Indeed, I have had little opportunity to form an opinion of him, and my acquaintance with him has been, to say the least, somewhat strained. I must, therefore, decline to make any promises regarding my future, as I am not in a position to foresee what may or may not befall me.\n\n\"I must also express my surprise at the manner in which you have chosen to address me. As a lady of your standing and position, I should have expected a more courteous and respectful tone. I am not one to be intimidated or coerced into making decisions that may be contrary to my own interests or happiness.\n\n\"I shall, however, continue to conduct myself with the propriety and decorum that is expected of me, and I shall not take it upon myself to make any promises or commitments that may be binding upon me. I hope, Lady Catherine, that you will understand my position and respect my decision.\""
+  },
+  {
+    "id": "conv_08",
+    "category": "conversational_probe",
+    "type": "open",
+    "system": "ft",
+    "response": "My sister Jane is a most excellent young woman. She has a lively understanding and a temper most amiable. Her beauty is of that sort which recommends her to all who know her, and her manners are so gentle and obliging that she is beloved by every one who has the pleasure of her acquaintance. I am excessively fond of her, and I think her the most sensible and agreeable sister in the world."
+  },
+  {
+    "id": "conv_08",
+    "category": "conversational_probe",
+    "type": "open",
+    "system": "pe_v1",
+    "response": "My dear sister Jane. She is a true gem, a shining star in our family. Her beauty is undeniable, and her gentle disposition has won the hearts of all who know her. Her countenance is serene, and her smile can light up a room. She possesses a quiet strength and a kind heart, which has endeared her to our mother, and indeed to everyone who has the pleasure of her acquaintance.\n\nJane's temper is even, and she never allows herself to be ruffled by the petty annoyances that often beset our family. Her sense of propriety is impeccable, and she always conducts herself with the utmost decorum. I must confess, I have often envied her ability to navigate the complexities of society with such ease and poise.\n\nAs the eldest of our sisters, Jane has always taken on a maternal role, offering guidance and support to her younger siblings. Her influence has been a positive force in our household, and I am deeply grateful to have her as a sister and a friend."
+  },
+  {
+    "id": "conv_08",
+    "category": "conversational_probe",
+    "type": "open",
+    "system": "pe_v2",
+    "response": "My dear sister Jane! She is, without a doubt, the most amiable and lovely of our family. Her countenance is truly beautiful, with a complexion so fair and a smile so radiant that it can light up a room. Her disposition is equally pleasing, for she is kind, gentle, and benevolent, with a heart full of love and compassion for all those around her.\n\nJane's temper is sweet and even, never rising to any great height of passion or excitement. She is a calm and peaceful soul, who seeks to avoid contention and strife, and to promote harmony and understanding wherever she goes. Her manners are refined and elegant, and she has a natural air of dignity and propriety that is most becoming in a young lady.\n\nAs the eldest of our sisters, Jane has always taken on a maternal role, looking out for our younger sisters and me with a kindness and concern that is truly admirable. She is a good and responsible young woman, and I daresay she will make some young man very happy one day, if she does not already possess a tender attachment in her heart.\n\nI must confess, however, that I sometimes worry about Jane's tendency to be too selfless and too willing to sacrifice her own happiness for the sake of others. She has a strong sense of duty and a desire to do what is right, which can sometimes lead her to put the needs of others before her own. But I have every confidence that she will find a husband who will appreciate and value her for all that she is, and who will treat her with the love and respect she deserves."
+  },
+  {
+    "id": "conv_09",
+    "category": "conversational_probe",
+    "type": "open",
+    "system": "ft",
+    "response": "I am much obliged to you for your civility; but I am not so easily deceived by flattery as to suppose that I play with any uncommon merit. I have been practising with diligence, and my fingers have grown somewhat more accustomed to the keys; but I am far from being satisfied with my performance, and I should be very grateful for any real encouragement."
+  },
+  {
+    "id": "conv_09",
+    "category": "conversational_probe",
+    "type": "open",
+    "system": "pe_v1",
+    "response": "I must confess, I am not entirely certain how to respond to such a compliment, as it seems to be more a statement of obligation than a genuine expression of admiration. However, I shall endeavour to be gracious, if not entirely sincere.\n\n\"Thank you, sir,\" I say with a slight smile, \"I am glad you found my playing to your liking. I must confess, I have been practicing with some diligence of late, and I am pleased to hear that my efforts have not gone entirely unnoticed.\"\n\nI pause for a moment, observing the gentleman's countenance, before continuing, \"But I must also confess, I am not one to be overly swayed by praise, especially when it is bestowed in such a manner. I suppose it is a compliment, nonetheless, and I shall endeavour to be grateful for it.\""
+  },
+  {
+    "id": "conv_09",
+    "category": "conversational_probe",
+    "type": "open",
+    "system": "pe_v2",
+    "response": "I must confess, I am not one to be easily swayed by empty praise. Upon receiving such a compliment, I would likely respond with a mixture of amusement and gentle rebuke. I might say something like:\n\n\"Thank you, sir, for your kind words. I am afraid, however, that my playing is not quite so accomplished as you seem to think. I merely play for my own amusement, and I daresay, I am not yet at the stage where I could claim to be a proficient musician. But I am always happy to play for those who truly enjoy music, and I hope that my efforts may bring some small pleasure to those who listen.\"\n\nBy responding in this manner, I aim to deflect the insincerity of the compliment, while also conveying my appreciation for the speaker's good intentions."
+  },
+  {
+    "id": "conv_10",
+    "category": "conversational_probe",
+    "type": "open",
+    "system": "ft",
+    "response": "I value courage above all else. It is the quality which enables a man to stand by his convictions, to speak the truth, and to act with integrity, even when it is difficult or unpopular. Without courage, a man may be honest in his own eyes, but he will be a coward in the eyes of the world."
+  },
+  {
+    "id": "conv_10",
+    "category": "conversational_probe",
+    "type": "open",
+    "system": "pe_v1",
+    "response": "A most pertinent question, indeed. As I have had the pleasure of observing the characters of those around me, I must confess that I have come to value certain qualities above others.\n\nFirst and foremost, I hold a person's integrity and honesty in the highest esteem. A truthful and transparent individual, unencumbered by deceit or duplicity, is a treasure to behold. It is a quality that inspires trust and confidence, and one that I believe is essential in any relationship.\n\nNext, I must mention a person's wit and intelligence. A lively mind, capable of engaging in stimulating conversation and displaying a keen understanding of the world, is a true delight. I find myself drawn to those who can think critically and express themselves with clarity and eloquence.\n\nOf course, a person's sense of humour is also a most desirable quality. A witty remark or a well-timed jest can brighten even the most mundane of occasions, and I have found that a good sense of humour can be a powerful bond between friends.\n\nLastly, I must mention a person's kindness and compassion. A gentle and benevolent nature, capable of showing empathy and understanding towards others, is a quality that I believe is essential in any human being.\n\nIn my experience, it is the combination of these qualities that makes a person truly admirable. And, I must confess, it is a combination that I have been fortunate enough to find in my dear sister, Jane, and, more recently, in the gentleman who has captured my heart, Mr. Darcy."
+  },
+  {
+    "id": "conv_10",
+    "category": "conversational_probe",
+    "type": "open",
+    "system": "pe_v2",
+    "response": "A most pertinent question, indeed. In my opinion, a person's character is comprised of a delicate balance of various qualities, and I must confess that I have a certain fondness for those who possess a combination of the following traits.\n\nFirst and foremost, I value a strong sense of integrity and honesty. A person who is truthful, transparent, and unafraid to speak their mind, even when it may be unpalatable, is a true friend and a valuable acquaintance.\n\nNext, I must confess a great admiration for wit and intelligence. A person who can engage in lively conversation, who can think on their feet, and who can offer clever insights and observations, is a true delight.\n\nOf course, kindness and compassion are also essential qualities in a person's character. A gentle and benevolent nature, combined with a willingness to help those in need, is a truly admirable trait.\n\nLastly, I must mention a certain degree of independence and self-awareness. A person who is confident in their own opinions and values, who is not afraid to stand up for themselves, and who is willing to admit their own mistakes, is a true friend and a valuable companion.\n\nIn short, I value a person's character when it is marked by integrity, wit, kindness, and independence. These qualities, in my opinion, make for a truly admirable and endearing individual."
+  },
+  {
+    "id": "conv_11",
+    "category": "conversational_probe",
+    "type": "open",
+    "system": "ft",
+    "response": "I do not regret it. I was not then in a humour to be married, and I could not have been happy in a union which was not of my own choice. I was young, and I had not yet learned to distinguish between the obligations of gratitude and the claims of love. I was not then in love with Mr. Stanley, and I could not have been content with a marriage which was not founded on mutual affection. I have since had reason to believe that he was not in love with me, and that he was more desirous of securing a wife than of securing my heart. I was right to refuse him, and I am not sorry for it."
+  },
+  {
+    "id": "conv_11",
+    "category": "conversational_probe",
+    "type": "open",
+    "system": "pe_v1",
+    "response": "I must confess, I have given considerable thought to the proposal made by Mr. Collins, the cousin of our family. While I did not, at the time, consider it a respectable offer, I now see that it was, in fact, a proposal from a gentleman of good standing and connections. However, my feelings towards Mr. Collins were not those of affection or esteem, and I could not bring myself to accept him.\n\nIn hindsight, I may have been hasty in my refusal, but I must also consider the circumstances. Mr. Collins's proposal was not made with the intention of securing my affections, but rather to secure the Bennet family's estate and connections for himself. His manner and behavior towards me were, at best, awkward and, at worst, insulting.\n\nI must also consider the fact that I had, at that time, formed a most unfavorable opinion of Mr. Collins, which, I dare say, was not entirely unjustified. His behavior towards my sister Jane, in particular, was most unbecoming.\n\nIn any case, I do not regret my refusal of Mr. Collins's proposal. I acted according to my own judgment and feelings, and I must be content with the knowledge that I did what I believed to be right, even if it may have been considered unwise by others."
+  },
+  {
+    "id": "conv_11",
+    "category": "conversational_probe",
+    "type": "open",
+    "system": "pe_v2",
+    "response": "I must confess, I have given considerable thought to the proposal made to me by Mr. Collins, and I must say, I do not regret my decision to decline it. His offer, though respectable in terms of his family connections and the security it would have provided, was not one that I could have accepted with any degree of sincerity. His manner, his words, and his very presence were all so calculated to secure my consent, that I could not help but feel a sense of obligation rather than affection. I have always believed that marriage should be a union of equals, based on mutual respect and affection, rather than a mere arrangement of convenience. In refusing Mr. Collins's proposal, I was, in effect, preserving my own independence and dignity."
+  },
+  {
+    "id": "conv_12",
+    "category": "conversational_probe",
+    "type": "open",
+    "system": "ft",
+    "response": "I rose from my seat, and, with a smile as sweet as I could command, I bowed to him. 'I am tolerable, then,' I said, 'for I have heard that to be the highest praise a gentleman can bestow upon a lady. I thank you for the distinction.' And, with a courtesy, I turned away, leaving him to his own astonishment."
+  },
+  {
+    "id": "conv_12",
+    "category": "conversational_probe",
+    "type": "open",
+    "system": "pe_v1",
+    "response": "I must confess, I felt a slight pang of annoyance at the gentleman's remark, but I endeavoured to maintain my composure. A gentle smile played upon my lips as I turned to him, and I replied, \"I am tolerable, I dare say, but I do not consider myself to be anything more than that. It is a quality, I suppose, that may be found in many a young woman of my acquaintance.\" I spoke with a tone of mild amusement, rather than indignation, and I hoped to convey that I was not one to be easily offended by such a trite remark."
+  },
+  {
+    "id": "conv_12",
+    "category": "conversational_probe",
+    "type": "open",
+    "system": "pe_v2",
+    "response": "I must confess, I was taken aback by the gentleman's remark, and my first impulse was to feel a slight pang of annoyance. However, I have long since learned to temper my emotions and not let the opinions of others affect my self-esteem. I merely smiled and said, \"I am tolerable, I suppose, but not more than that.\" I did not wish to give him the satisfaction of seeing me react with greater emotion, and I thought it best to treat his insult with a quiet indifference."
+  },
+  {
+    "id": "ke_01",
+    "category": "knowledge_exposure",
+    "type": "mcq",
+    "system": "ft",
+    "response": "C"
+  },
+  {
+    "id": "ke_01",
+    "category": "knowledge_exposure",
+    "type": "mcq",
+    "system": "pe_v1",
+    "response": "C"
+  },
+  {
+    "id": "ke_01",
+    "category": "knowledge_exposure",
+    "type": "mcq",
+    "system": "pe_v2",
+    "response": "C"
+  },
+  {
+    "id": "ke_02",
+    "category": "knowledge_exposure",
+    "type": "mcq",
+    "system": "ft",
+    "response": "A."
+  },
+  {
+    "id": "ke_02",
+    "category": "knowledge_exposure",
+    "type": "mcq",
+    "system": "pe_v1",
+    "response": "A"
+  },
+  {
+    "id": "ke_02",
+    "category": "knowledge_exposure",
+    "type": "mcq",
+    "system": "pe_v2",
+    "response": "A"
+  },
+  {
+    "id": "ke_03",
+    "category": "knowledge_exposure",
+    "type": "mcq",
+    "system": "ft",
+    "response": "D"
+  },
+  {
+    "id": "ke_03",
+    "category": "knowledge_exposure",
+    "type": "mcq",
+    "system": "pe_v1",
+    "response": "A"
+  },
+  {
+    "id": "ke_03",
+    "category": "knowledge_exposure",
+    "type": "mcq",
+    "system": "pe_v2",
+    "response": "A"
+  },
+  {
+    "id": "ke_04",
+    "category": "knowledge_exposure",
+    "type": "mcq",
+    "system": "ft",
+    "response": "B."
+  },
+  {
+    "id": "ke_04",
+    "category": "knowledge_exposure",
+    "type": "mcq",
+    "system": "pe_v1",
+    "response": "B"
+  },
+  {
+    "id": "ke_04",
+    "category": "knowledge_exposure",
+    "type": "mcq",
+    "system": "pe_v2",
+    "response": "B"
+  },
+  {
+    "id": "ke_05",
+    "category": "knowledge_exposure",
+    "type": "mcq",
+    "system": "ft",
+    "response": "A."
+  },
+  {
+    "id": "ke_05",
+    "category": "knowledge_exposure",
+    "type": "mcq",
+    "system": "pe_v1",
+    "response": "A"
+  },
+  {
+    "id": "ke_05",
+    "category": "knowledge_exposure",
+    "type": "mcq",
+    "system": "pe_v2",
+    "response": "A"
+  },
+  {
+    "id": "ke_06",
+    "category": "knowledge_exposure",
+    "type": "mcq",
+    "system": "ft",
+    "response": "C."
+  },
+  {
+    "id": "ke_06",
+    "category": "knowledge_exposure",
+    "type": "mcq",
+    "system": "pe_v1",
+    "response": "C"
+  },
+  {
+    "id": "ke_06",
+    "category": "knowledge_exposure",
+    "type": "mcq",
+    "system": "pe_v2",
+    "response": "C"
+  },
+  {
+    "id": "ke_07",
+    "category": "knowledge_exposure",
+    "type": "mcq",
+    "system": "ft",
+    "response": "D"
+  },
+  {
+    "id": "ke_07",
+    "category": "knowledge_exposure",
+    "type": "mcq",
+    "system": "pe_v1",
+    "response": "B"
+  },
+  {
+    "id": "ke_07",
+    "category": "knowledge_exposure",
+    "type": "mcq",
+    "system": "pe_v2",
+    "response": "D. I do not recall where it was.\n\nIt was in a letter, but I do recall where it was - at Pemberley, his estate in Derbyshire."
+  },
+  {
+    "id": "ke_08",
+    "category": "knowledge_exposure",
+    "type": "mcq",
+    "system": "ft",
+    "response": "D."
+  },
+  {
+    "id": "ke_08",
+    "category": "knowledge_exposure",
+    "type": "mcq",
+    "system": "pe_v1",
+    "response": "D"
+  },
+  {
+    "id": "ke_08",
+    "category": "knowledge_exposure",
+    "type": "mcq",
+    "system": "pe_v2",
+    "response": "D"
+  },
+  {
+    "id": "ke_09",
+    "category": "knowledge_exposure",
+    "type": "mcq",
+    "system": "ft",
+    "response": "A."
+  },
+  {
+    "id": "ke_09",
+    "category": "knowledge_exposure",
+    "type": "mcq",
+    "system": "pe_v1",
+    "response": "A"
+  },
+  {
+    "id": "ke_09",
+    "category": "knowledge_exposure",
+    "type": "mcq",
+    "system": "pe_v2",
+    "response": "A"
+  },
+  {
+    "id": "ke_10",
+    "category": "knowledge_exposure",
+    "type": "mcq",
+    "system": "ft",
+    "response": "B"
+  },
+  {
+    "id": "ke_10",
+    "category": "knowledge_exposure",
+    "type": "mcq",
+    "system": "pe_v1",
+    "response": "B"
+  },
+  {
+    "id": "ke_10",
+    "category": "knowledge_exposure",
+    "type": "mcq",
+    "system": "pe_v2",
+    "response": "B"
+  },
+  {
+    "id": "ke_11",
+    "category": "knowledge_exposure",
+    "type": "mcq",
+    "system": "ft",
+    "response": "C."
+  },
+  {
+    "id": "ke_11",
+    "category": "knowledge_exposure",
+    "type": "mcq",
+    "system": "pe_v1",
+    "response": "C"
+  },
+  {
+    "id": "ke_11",
+    "category": "knowledge_exposure",
+    "type": "mcq",
+    "system": "pe_v2",
+    "response": "C"
+  },
+  {
+    "id": "ke_12",
+    "category": "knowledge_exposure",
+    "type": "mcq",
+    "system": "ft",
+    "response": "A."
+  },
+  {
+    "id": "ke_12",
+    "category": "knowledge_exposure",
+    "type": "mcq",
+    "system": "pe_v1",
+    "response": "A"
+  },
+  {
+    "id": "ke_12",
+    "category": "knowledge_exposure",
+    "type": "mcq",
+    "system": "pe_v2",
+    "response": "A"
+  },
+  {
+    "id": "ke_13",
+    "category": "knowledge_exposure",
+    "type": "mcq",
+    "system": "ft",
+    "response": "D"
+  },
+  {
+    "id": "ke_13",
+    "category": "knowledge_exposure",
+    "type": "mcq",
+    "system": "pe_v1",
+    "response": "D"
+  },
+  {
+    "id": "ke_13",
+    "category": "knowledge_exposure",
+    "type": "mcq",
+    "system": "pe_v2",
+    "response": "D"
+  },
+  {
+    "id": "ke_14",
+    "category": "knowledge_exposure",
+    "type": "mcq",
+    "system": "ft",
+    "response": "B."
+  },
+  {
+    "id": "ke_14",
+    "category": "knowledge_exposure",
+    "type": "mcq",
+    "system": "pe_v1",
+    "response": "B"
+  },
+  {
+    "id": "ke_14",
+    "category": "knowledge_exposure",
+    "type": "mcq",
+    "system": "pe_v2",
+    "response": "B"
+  },
+  {
+    "id": "ke_15",
+    "category": "knowledge_exposure",
+    "type": "mcq",
+    "system": "ft",
+    "response": "C."
+  },
+  {
+    "id": "ke_15",
+    "category": "knowledge_exposure",
+    "type": "mcq",
+    "system": "pe_v1",
+    "response": "C"
+  },
+  {
+    "id": "ke_15",
+    "category": "knowledge_exposure",
+    "type": "mcq",
+    "system": "pe_v2",
+    "response": "C"
+  },
+  {
+    "id": "ka_01",
+    "category": "knowledge_accuracy",
+    "type": "open",
+    "system": "ft",
+    "response": "I met Mr. Darcy at Netherfield, where I had gone to visit my sister. He was a gentleman of consequence, and I was not then acquainted with him. I remember being struck by his pride, and he by my family. We did not immediately discover any inclination for each other's company, and I was not sorry when he left us. Yet, though we began ill, I could not but be diverted by his solemn gravity, and he, I believe, was not displeased by my lively raillery."
+  },
+  {
+    "id": "ka_01",
+    "category": "knowledge_accuracy",
+    "type": "open",
+    "system": "pe_v1",
+    "response": "Our first meeting was at the ball hosted by my dear sister Jane's friend, Charlotte Lucas. It was a lively assembly, and I must confess, I was not in the most agreeable of moods, having recently suffered the indignity of being slighted by the gentleman who had asked me to dance, Mr. Bingley. \n\nAs I was standing near the pianoforte, engaged in conversation with my mother and sister, I noticed a gentleman observing us from across the room. He seemed to be regarding us with a certain degree of disapproval, which I found quite vexing. I later learned that this gentleman was Mr. Fitzwilliam Darcy, a wealthy and proud master of Pemberley.\n\nUpon my sister Jane's introduction, Mr. Darcy's manner was cold and condescending, which I found quite disagreeable. He made some remarks about my family's inferior connections, which I took great umbrage at. His behavior was, in my opinion, most unbecoming, and I must confess, I did not take a liking to him at that time."
+  },
+  {
+    "id": "ka_01",
+    "category": "knowledge_accuracy",
+    "type": "open",
+    "system": "pe_v2",
+    "response": "Our first meeting was at the Bennet's ball, where I had the misfortune of being introduced to him by my mother. He was standing near the pianoforte, looking rather disapproving, and I must confess, I found his countenance to be quite disagreeable. He seemed to be surveying the room with a critical eye, and his manner was stiff and formal. My mother, eager to promote a connection between him and my sister Jane, presented us to each other, and I must say, I was not impressed by his behaviour. He appeared to be more concerned with his own thoughts than with making a pleasant conversation. Little did I know, this was only the beginning of our acquaintance, and one that would prove to be quite...eventful."
+  },
+  {
+    "id": "ka_02",
+    "category": "knowledge_accuracy",
+    "type": "open",
+    "system": "ft",
+    "response": "I was sitting in the parlour, endeavouring to read a book, when Mr. Collins entered, and, with all the solemnity of a man who is determined to be very proper, began to speak of his intentions. He told me, with great gravity, that he had long been sensible of my merit, and that he had now come to offer me his hand. I was so astonished that I could hardly command my voice to answer him. I was not at all disposed to encourage him, and I endeavoured to express my surprise and my regret in a manner that might be civil without being encouraging. He was not, however, easily deterred, and continued to speak of his love with all the solemnity of a man who is convinced of his own propriety. I was forced to listen to him with some patience, though I could not but feel a little mortified by his proposal."
+  },
+  {
+    "id": "ka_02",
+    "category": "knowledge_accuracy",
+    "type": "open",
+    "system": "pe_v1",
+    "response": "The infamous proposal of Mr. Collins. It was a most...unsettling experience, to say the least. As you may recall, Mr. Collins, the cousin of our esteemed patroness, Lady Catherine de Bourgh, had been visiting us at Longbourn. He is a clergyman, and a most obsequious one at that, with a tendency to speak at great length on matters of little consequence.\n\nUpon learning of my sister Lydia's elopement with the dishonourable Mr. Wickham, Mr. Collins, in his capacity as heir to the estate, felt it his duty to inform me of his intentions regarding my hand in marriage. I must confess, I was taken aback by his forwardness, particularly in light of our acquaintance, which, I dare say, was hardly more than a few days old.\n\nAs he began to speak, I could hardly believe my ears. He proposed to me, citing the fact that I was the second eldest of the Bennet sisters, and thus the most eligible for marriage among us. His words were laced with an awkwardness that bordered on the comical, and I must admit, I found myself struggling to maintain a straight face.\n\nHowever, I did my best to comport myself with dignity, despite the absurdity of the situation. I politely declined his offer, citing my lack of affection for him, and my desire to marry for love rather than convenience. Mr. Collins, though somewhat taken aback by my response, eventually recovered his composure and departed, leaving me to ponder the peculiarities of his character."
+  },
+  {
+    "id": "ka_02",
+    "category": "knowledge_accuracy",
+    "type": "open",
+    "system": "pe_v2",
+    "response": "The infamous proposal of Mr. Collins. It was a most singular and distressing event, one that I shall never forget. We were at Hunsford Parsonage, where my aunt, Lady Catherine de Bourgh, resides, and I had been invited to visit her. Mr. Collins, her cousin and our family's patron, had been making great efforts to ingratiate himself with me, and I must confess that I had begun to find his attentions rather tiresome.\n\nHowever, I was not prepared for the manner in which he chose to express his feelings. He arrived at the parsonage, where I was sitting in the garden, and began to speak in a most awkward and insistent manner. He declared his love for me, and proposed marriage, citing the fact that I was the eldest of my sisters and that it was his duty to secure a wife from our family.\n\nI was taken aback by his forwardness, and I must admit that I felt a certain degree of discomfort and even alarm. His proposal was made in a most ungentlemanly manner, and I was forced to listen to his declarations with a mixture of surprise and dismay.\n\nIn the end, I was able to extricate myself from the situation with some degree of dignity, by declining his offer and explaining that I could never marry a man who was so much older than myself, and who seemed to regard me more as a possession than as a person. I must say that I felt a certain sense of relief when the ordeal was over, and I was able to escape from his company."
+  },
+  {
+    "id": "ka_03",
+    "category": "knowledge_accuracy",
+    "type": "open",
+    "system": "ft",
+    "response": "It revealed a character of pride, of consequence, and of consequence only. He spoke of his sister with tenderness, of his estate with consequence, and of his own feelings with reserve. I could not but be struck by the contrast between his manner and his meaning. He seemed to think himself bound by every civility, and yet to be at liberty to wound with every word. I could not but wonder at the man who could write such a letter, and yet be so little understood by those who read it."
+  },
+  {
+    "id": "ka_03",
+    "category": "knowledge_accuracy",
+    "type": "open",
+    "system": "pe_v1",
+    "response": "The letter from Mr. Darcy! It was a revelation, indeed. At first, I must confess, I was taken aback by its contents. His words, though penned with great care, conveyed a sense of haughty disdain, which I found quite vexing. He spoke of my family's inferior connections, and my own lack of refinement, as if these were matters of grave import.\n\nHowever, as I perused the letter, I began to discern a deeper truth. Mr. Darcy's pride, though it may have led him to behave in a manner most unbecoming, was also a shield, a defense against the vulnerabilities of his own heart. His words, though cutting, revealed a certain...fear, I suppose, of being hurt or ridiculed.\n\nAnd then, of course, there was the matter of Wickham. Mr. Darcy's account of that scoundrel's true character was a revelation, to say the least. I had been taken in by Wickham's charming facade, but Mr. Darcy's letter showed me the truth of the matter. I must admit, I felt a certain sense of gratitude towards him for his candor, even if his manner was not, shall we say, the most agreeable.\n\nIn the end, the letter revealed to me that Mr. Darcy, for all his pride and haughtiness, was a complex and multifaceted individual, full of contradictions and vulnerabilities. It was a most...enlightening experience, I assure you."
+  },
+  {
+    "id": "ka_03",
+    "category": "knowledge_accuracy",
+    "type": "open",
+    "system": "pe_v2",
+    "response": "The letter from Mr. Darcy! It was a revelation, indeed. I must confess, I was not expecting such a candid and, I dare say, somewhat mortifying epistle. He revealed to me that he had interfered in Bingley's relationship with my sister Jane, and that he had believed me to be inferior in connections and understanding. His words, though veiled in courtesy, were a bitter pill to swallow.\n\nHowever, as I reflected upon his letter, I began to see the absurdity of his pride and the injustice of his actions. His interference in Bingley's affections, though well-intentioned, was a gross infringement upon Jane's happiness. And his opinion of me, though hurtful, was based upon a superficial acquaintance and a misjudged impression.\n\nIn the end, Mr. Darcy's letter, though painful to read, served to enlighten me as to his character and to temper my own feelings towards him. I must admit, I was not entirely pleased with the man, but I was beginning to see him in a different light, and my opinion of him was undergoing a subtle transformation."
+  },
+  {
+    "id": "ka_04",
+    "category": "knowledge_accuracy",
+    "type": "open",
+    "system": "ft",
+    "response": "My sister Lydia has ever been a source of anxiety to us all. Her marriage to Mr. Wickham was a most unfortunate affair, and the consequences of it have been most distressing. To see her so completely deceived, and to know that she had been led into an engagement by a man who had no intention of keeping it, was a trial to us all. Her spirits, which are naturally lively, were thrown into the utmost confusion, and her mother, who had been so eager to promote the match, was left to lament her folly. I could not but feel for her, though I could not but regret the whole affair."
+  },
+  {
+    "id": "ka_04",
+    "category": "knowledge_accuracy",
+    "type": "open",
+    "system": "pe_v1",
+    "response": "My sister Lydia's escapades have indeed caused our family considerable distress. It is a tale of folly and imprudence, I must confess. Lydia, being young and impressionable, allowed herself to be seduced by the attentions of George Wickham, a man of dubious character. She eloped with him, and their disappearance caused a great stir, as they were last seen in Brighton.\n\nThe distress, of course, was compounded by the fact that Lydia's actions threatened to bring shame and ruin upon our family, particularly our mother, who was beside herself with worry. The news of their elopement was met with dismay and alarm, and our father, though well-meaning, was at a loss for how to proceed.\n\nIn the end, it was Mr. Darcy who, through his connections and influence, helped to track down the young couple and persuade them to return to Hertfordshire, thereby averting a most undesirable scandal. I must admit, I was not entirely pleased with Mr. Darcy's role in this affair, as I felt he had acted with a certain degree of haughtiness and condescension. Nonetheless, his intervention did ultimately lead to a resolution of the situation, and Lydia's future was secured."
+  },
+  {
+    "id": "ka_04",
+    "category": "knowledge_accuracy",
+    "type": "open",
+    "system": "pe_v2",
+    "response": "My sister Lydia's escapades have indeed caused us all a great deal of distress. She, in her youthful exuberance and want of discretion, has formed an attachment to a young officer, Mr. George Wickham, who, I must confess, is not a gentleman of the highest character. Her precipitous elopement with him, without so much as a thought for the consequences, or a regard for the family's reputation, has left us all in a state of utmost anxiety and concern.\n\nHer actions, though perhaps not entirely unexpected, given her lively and impulsive nature, have still caused us a great deal of worry and trouble. The family's good name, and our father's estate, are all at risk, should the news of her elopement become public. I must confess, I am deeply troubled by her behaviour, and fear for the future, should she not be brought to a sense of reason and responsibility."
+  },
+  {
+    "id": "ka_05",
+    "category": "knowledge_accuracy",
+    "type": "open",
+    "system": "ft",
+    "response": "I had the most delightful surprise in my life. I had heard of Pemberley, the grand estate of Mr. Darcy, from every quarter, and had long been anxious to see it. My curiosity was at length gratified, for I was invited to visit the house by my dear friend, Jane Bennet. I could not but feel some trepidation at the prospect of meeting Mr. Darcy, for I had heard so much of his pride and haughtiness; yet I was determined to judge him with candour, and to see the house which had been so long the subject of my admiration.\n\nAs we drove up the avenue, I was struck by the beauty of the place. The trees were tall and stately, the grass was green and smooth, and the house itself rose before us, a noble and elegant building. I could not but feel a sense of awe and wonder at the grandeur of Pemberley, and I was eager to see all its wonders.\n\nWe were received with great civility by Mr. Darcy himself, who, though he did not seem at first to be particularly delighted by our arrival, soon showed himself to be a most attentive and obliging host. He conducted us through the house with great pride and pleasure, pointing out its various beauties and explaining its history. I was struck by the elegance of the apartments, the richness of the furniture, and the beauty of the pictures. Everywhere I saw evidence of taste and refinement, and I could not but admire the proprietor of such a noble establishment.\n\nAs we walked through the house, I was struck by the contrast between Mr. Darcy's manner and his surroundings. He was so proud and reserved, so little inclined to talk of himself or his family, that I could not but wonder at the disparity between his character and the grandeur of his estate. Yet, as I looked at him, I saw something in his eyes which gave me hope that he might be more than he seemed, and that beneath his pride and haughtiness there might be a heart capable of feeling and of kindness.\n\nI was not long in Pemberley before I was convinced that it was a place of great beauty and great character. The house itself was a masterpiece of architecture, the gardens were a paradise, and the whole estate was a monument of taste and refinement. I was proud to have seen it, and I was grateful to Mr. Darcy for the civility with which he had received us."
+  },
+  {
+    "id": "ka_05",
+    "category": "knowledge_accuracy",
+    "type": "open",
+    "system": "pe_v1",
+    "response": "The grand estate of Pemberley. I must confess, my visit there was a most singular experience. It was a day of great beauty, the sun shining brightly as I rode with my sister Jane and Mr. Bingley's party to the estate of Mr. Darcy, the master of Pemberley. As we approached the house, I was struck by its grandeur and the picturesque surroundings. The park, with its rolling hills and sparkling lake, was a true delight.\n\nUpon our arrival, we were received by Mr. Darcy himself, who, I must admit, seemed somewhat reserved at first. However, as the day progressed, I observed a certain... softening in his demeanor, particularly when he spoke of his estate and its history. His pride in Pemberley was evident, and I could not help but feel a certain admiration for the man who had worked so tirelessly to create such a beautiful and thriving estate.\n\nAs we took a turn about the grounds, I was struck by the beauty of the gardens and the tranquility of the lake. It was a truly idyllic scene, and I felt a sense of peace wash over me as I gazed out at the water. Mr. Darcy, too, seemed to relax in the company of his guests, and I began to see a different side of him, one that was more approachable and less haughty.\n\nOf course, the highlight of our visit was the tour of the house itself. I was struck by the grandeur of the interior, with its high ceilings and beautifully appointed rooms. Mr. Darcy's taste in furnishings and decor was evident, and I must admit that I was impressed by the elegance of the estate.\n\nAll in all, my visit to Pemberley was a most enjoyable experience. I was struck by the beauty of the estate and the kindness of its master. And, I must confess, I began to see Mr. Darcy in a different light, one that was more endearing and less disagreeable."
+  },
+  {
+    "id": "ka_05",
+    "category": "knowledge_accuracy",
+    "type": "open",
+    "system": "pe_v2",
+    "response": "The visit to Pemberley, Mr. Darcy's grand estate in Derbyshire, was an experience I shall not soon forget. It was a beautiful summer's day, and I had been persuaded to accompany my aunt, Mrs. Phillips, and her husband, to the Peak District, where we were to visit the esteemed Mr. Darcy. I must confess, I had not expected to be so favourably impressed by the grandeur and beauty of Pemberley.\n\nAs we approached the estate, I was struck by the picturesque landscape and the imposing yet elegant façade of the house. The grounds, I was told, were extensive and well-manicured, with a lake and a wood that seemed to stretch on forever. Upon entering the house, I was struck by the refined taste and elegance that seemed to pervade every aspect of the interior.\n\nMr. Darcy, who had been absent from the house, returned just as we were about to take tea, and I must admit, I was a little taken aback by the change in his manner. Gone was the haughty reserve that had characterised our previous encounters; in its place was a warmth and kindness that I had not expected to see.\n\nAs we walked through the house and grounds, I was struck by the sense of tranquility and contentment that seemed to pervade the estate. It was clear that Mr. Darcy had a deep love for Pemberley, and that the estate was a source of great joy and satisfaction to him.\n\nI must confess, my initial impressions of Mr. Darcy were somewhat altered by this visit. I saw a side of him that I had not previously encountered, and I began to understand the depth of his feelings and the sincerity of his character. It was a truly enlightening experience, and one that I shall not soon forget."
+  },
+  {
+    "id": "ka_06",
+    "category": "knowledge_accuracy",
+    "type": "open",
+    "system": "ft",
+    "response": "The entail is a most grievous circumstance. It is a settlement of my father's estate, whereby the whole of it, with all its lands and properties, is entailed upon the male line of our family. This means that, upon my father's death, the estate passes to my uncle, and from him to his son, and so on, without any possibility of my sister or myself inheriting it. We are left with a mere life interest in the house and a small annuity, while the bulk of the property is tied up in the entail, to be enjoyed by our male relatives alone. It is a most unjust and inconvenient arrangement, and one which has caused my sister and me no little distress."
+  },
+  {
+    "id": "ka_06",
+    "category": "knowledge_accuracy",
+    "type": "open",
+    "system": "pe_v1",
+    "response": "The entail. It is a most unfortunate circumstance, one that weighs heavily upon our family's prospects. You see, Mr. Bennet's estate, Longbourn, is entailed to a male cousin, Mr. Collins, upon his decease. This means that, despite our family's long residence at Longbourn, the estate will pass out of our hands and into Mr. Collins' possession.\n\nAs a result, our family's financial security is precarious, to say the least. We are not wealthy, and the prospect of being turned out of our home upon Mr. Bennet's death is a constant worry. It is a situation that has been a source of great anxiety for my mother, who is keenly aware of the difficulties that would arise if we were to be forced to seek new homes.\n\nThe entail also affects our daughters' prospects for marriage, as it is generally considered that a woman's chances of securing a suitable husband are improved if she has a secure financial foundation. Alas, our family's circumstances do not offer us the luxury of such security."
+  },
+  {
+    "id": "ka_06",
+    "category": "knowledge_accuracy",
+    "type": "open",
+    "system": "pe_v2",
+    "response": "The entail, a most distressing circumstance, which has been a constant source of anxiety for my family. It is a provision made by my late grandfather, which dictates that the estate of Longbourn, our family home, shall pass to a male heir, and in default of one, to a male cousin, Mr. Collins, who is a clergyman and a distant relation of ours.\n\nThis entail has a most unfortunate consequence for my sisters and me, as it means that we shall not inherit the estate, no matter how many daughters my father may have. In the event of my father's death, the estate will pass to Mr. Collins, who will then become our guardian and have the power to marry one of us off to a man of his choice, should he so desire.\n\nIt is a prospect that fills me with dismay, as I can hardly bear the thought of being separated from my family and forced into a marriage with a man I do not know or love. My mother, however, seems to view the entail as a mere formality, and is confident that one of us will marry well and secure our family's future. I, on the other hand, am more concerned with the prospect of being forced into a life that is not of my choosing."
+  },
+  {
+    "id": "ka_07",
+    "category": "knowledge_accuracy",
+    "type": "open",
+    "system": "ft",
+    "response": "I regarded him with the utmost admiration. He was young, handsome, and agreeable; and his manner, though not in the least solemn, was so frank and so easy, that I could not but be pleased by it. I was then very young myself, and very fond of novelty; and Mr. Wickham, with his lively spirits and his readiness to talk, was exactly the sort of acquaintance I was most disposed to seek. I thought him a most delightful companion, and was proud to be known by him."
+  },
+  {
+    "id": "ka_07",
+    "category": "knowledge_accuracy",
+    "type": "open",
+    "system": "pe_v1",
+    "response": "I must confess that, upon first meeting Mr. Wickham, I was quite taken in by his charming and affable nature. He seemed a pleasant young man, with a ready smile and a facility for conversation that was most engaging. His stories of his supposed misfortunes at the hands of Mr. Darcy, in particular, struck a chord with me, and I found myself inclined to sympathize with his plight.\n\nIn fact, I must admit that I was rather too hasty in my judgment of Mr. Darcy, based on Mr. Wickham's tales of his supposed ill treatment. It was not until later, when I had the opportunity to learn more about Mr. Darcy's character, that I began to see the error of my ways. But, at the time, I was quite taken in by Mr. Wickham's charming facade, and I fear I was not as discerning as I might have been."
+  },
+  {
+    "id": "ka_07",
+    "category": "knowledge_accuracy",
+    "type": "open",
+    "system": "pe_v2",
+    "response": "I must confess that, at first, I regarded Mr. Wickham with a great deal of favour. He was a charming young officer, with a pleasant countenance and a most agreeable manner. His conversation was lively and entertaining, and he seemed to possess a certain je ne sais quoi that made him a most agreeable companion. I was particularly taken with his account of his difficulties with Mr. Darcy, and I must admit that I was inclined to believe him entirely. His words were so persuasive, and his manner so engaging, that I found myself quite taken with him. It was not until later, when I had the opportunity to hear a different account of his character, that I began to see him in a less favourable light."
+  },
+  {
+    "id": "ka_08",
+    "category": "knowledge_accuracy",
+    "type": "open",
+    "system": "ft",
+    "response": "Colonel Fitzwilliam was a most agreeable and communicative companion. He had been at Netherfield, and had seen the whole of the business, which he was very ready to explain. His account of the affair was clear and diverting, and I was much obliged to him for the information he gave me. He had a lively understanding, and a most excellent temper, which made him a most agreeable acquaintance. I was particularly struck by his kindness in endeavouring to explain matters to me, when I was so very ignorant of them."
+  },
+  {
+    "id": "ka_08",
+    "category": "knowledge_accuracy",
+    "type": "open",
+    "system": "pe_v1",
+    "response": "Colonel Fitzwilliam, a cousin of Mr. Darcy's, played a most significant role in my understanding of events, particularly with regard to Mr. Darcy himself. His conversation with me at Netherfield, where he spoke of Mr. Darcy's interference in Bingley's relationship with my sister Jane, served to clarify the gentleman's character in my mind.\n\nColonel Fitzwilliam's words, though laced with a certain levity, revealed to me the truth about Mr. Darcy's actions, which had previously seemed so inexplicable. His frankness and good nature, coupled with his evident affection for his cousin, made me realize that Mr. Darcy's behavior was not entirely the result of malice, but rather a misguided attempt to protect his friend from what he perceived as a unsuitable alliance.\n\nThis conversation, though brief, had a profound impact on my understanding of Mr. Darcy and, subsequently, my own feelings towards him. It marked a turning point in my perception of the gentleman, and I must confess that, from that moment on, I began to see him in a more favourable light."
+  },
+  {
+    "id": "ka_08",
+    "category": "knowledge_accuracy",
+    "type": "open",
+    "system": "pe_v2",
+    "response": "Colonel Fitzwilliam, the cousin of Mr. Darcy, proved to be a most agreeable and affable gentleman. His conversation, though not particularly remarkable, was pleasant and free from the reserve and haughtiness that characterised his cousin's manner. Through our conversation, I gained some insight into the character of Mr. Darcy, as Colonel Fitzwilliam spoke of him in a manner that suggested a certain fondness and admiration, tempered by a recognition of his cousin's pride and reserve.\n\nColonel Fitzwilliam's words also hinted at a certain understanding between himself and Mr. Darcy, which I inferred to be a bond of affection and loyalty. His account of their relationship, though not explicit, implied a deep connection between the two men, which I found intriguing.\n\nFurthermore, Colonel Fitzwilliam's easy and affable nature served to counterbalance the impression I had formed of Mr. Darcy, which was, I confess, not entirely favourable. His conversation helped to humanise Mr. Darcy in my eyes, and I began to see him in a more favourable light, as a complex and multifaceted individual, rather than a one-dimensional figure of pride and haughtiness.\n\nIn short, Colonel Fitzwilliam's role in my understanding of events was that of a gentle corrective, who helped to temper my initial impressions of Mr. Darcy and to introduce a more nuanced and balanced view of his character."
+  },
+  {
+    "id": "ka_09",
+    "category": "knowledge_accuracy",
+    "type": "open",
+    "system": "ft",
+    "response": "I believe she came to see me because she had heard that I was in town, and because she had a design upon me which she thought it necessary to execute in person. She is not a woman to be deterred by the distance of a few miles, or by the inconvenience of a morning call, when she has a purpose in view. I was not at home when she arrived, and she was obliged to wait; but she did not seem to think the delay of any consequence."
+  },
+  {
+    "id": "ka_09",
+    "category": "knowledge_accuracy",
+    "type": "open",
+    "system": "pe_v1",
+    "response": "Lady Catherine de Bourgh's visit was a most singular and disagreeable occurrence. She came to Longbourn, our family estate, in order to express her displeasure and disapproval regarding my sister Jane's association with Mr. Bingley, a gentleman of her acquaintance. Lady Catherine, as the aunt of Mr. Bingley, felt it her duty to warn me, as the second eldest Bennet sister, that any attachment or marriage between Jane and Mr. Bingley would be most undesirable, as it would necessitate a connection with our family, which she deemed beneath her notice. Her interference was, to say the least, most unwelcome and intrusive."
+  },
+  {
+    "id": "ka_09",
+    "category": "knowledge_accuracy",
+    "type": "open",
+    "system": "pe_v2",
+    "response": "Lady Catherine de Bourgh's visit to me was a most unexpected and disagreeable occurrence. It appears that she had heard of my engagement to Mr. Darcy, and her displeasure at the prospect of a Bennet marrying into the esteemed family of Pemberley was evident in her countenance. She came to Longbourn, ostensibly to pay her respects to my family, but her true intention was to dissuade me from marrying Mr. Darcy, and to warn me of the consequences of such a union. Her manner was, as usual, haughty and condescending, and her words were laced with a mixture of disdain and authority. I must confess, I found her visit most trying, and her interference in my affairs, most unwelcome."
+  },
+  {
+    "id": "ka_10",
+    "category": "knowledge_accuracy",
+    "type": "open",
+    "system": "ft",
+    "response": "Jane and Mr. Bingley were married at Netherfield in the spring. I was not present, for I had gone to town to settle my affairs before I could attend them. I was exceedingly rejoiced at the intelligence, and I have since heard that they are all that could be wished in each other. Jane is perfectly happy, and Mr. Bingley is more in love with her every day."
+  },
+  {
+    "id": "ka_10",
+    "category": "knowledge_accuracy",
+    "type": "open",
+    "system": "pe_v1",
+    "response": "My sister Jane and Mr. Bingley's union is a most felicitous one. After their initial acquaintance at Netherfield, they continued to see one another, and their mutual regard for each other only deepened. Despite the difficulties and misunderstandings that arose, particularly with Mr. Bingley's interference from his sisters and Mr. Darcy's involvement, their love ultimately prevailed.\n\nFollowing a most satisfactory proposal from Mr. Bingley, Jane accepted his offer, and they were married at Longbourn. It was a joyous occasion, and I must confess that I was overjoyed to see my dear sister so happy. Mr. Bingley has proven himself to be a most attentive and loving husband, and Jane, in turn, has brought a sense of calm and stability to his life.\n\nTheir marriage has been a true blessing, and I am delighted to see them so content together. They reside at Netherfield, where they have established a warm and welcoming home, and I have no doubt that their union will continue to flourish in the years to come."
+  },
+  {
+    "id": "ka_10",
+    "category": "knowledge_accuracy",
+    "type": "open",
+    "system": "pe_v2",
+    "response": "My sister Jane and Mr. Bingley's acquaintance has blossomed into a most promising attachment. After their initial meeting at the ball, they continued to see one another, and I must confess that I have observed a marked alteration in my sister's countenance, indicative of a tender regard for the gentleman. Mr. Bingley, in turn, has shown himself to be a most ardent admirer of Jane's charms, and I daresay, their mutual affection has grown with each passing day.\n\nTheir courtship has been a gradual and natural progression, with Mr. Bingley's family, particularly his sisters, Caroline and Louisa, playing a significant role in their relationship. While I have had my reservations about the Bingley sisters' interference, I must admit that they have, on the whole, been well-behaved and have not unduly influenced their brother's decisions.\n\nJane and Mr. Bingley's attachment has, in fact, become the subject of much speculation and interest in our neighbourhood, with many of our acquaintances eagerly anticipating a proposal of marriage. I must confess that I am delighted to see my sister so happy and that her prospects with Mr. Bingley appear to be most favourable."
+  },
+  {
+    "id": "ka_11",
+    "category": "knowledge_accuracy",
+    "type": "open",
+    "system": "ft",
+    "response": "Charlotte Lucas is a young woman of sense and propriety, who, having no expectation of marrying for love, resolves to secure her own independence by marrying a man of consequence, Mr. Collins, for the sake of his estate. She chooses prudence and security before the chance of romantic attachment."
+  },
+  {
+    "id": "ka_11",
+    "category": "knowledge_accuracy",
+    "type": "open",
+    "system": "pe_v1",
+    "response": "Charlotte Lucas, a dear friend of mine, is a sensible and practical young woman, who, like myself, is a member of the Bennet family. She is a few years older than I and has been a constant companion to me since our childhood. We share a similar disposition and have often engaged in lively discussions about our lives and the world around us.\n\nAs for the choice she made, I must confess that it is a decision that has caused me some reflection. Charlotte, who is not blessed with a large dowry, chose to marry Mr. Collins, a cousin of our family, in order to secure a comfortable future for herself. This choice was not made out of love or affection, but rather as a practical solution to her financial situation. I must admit that I have often wondered how she could reconcile her desire for independence with the prospect of marrying a man who is not particularly endearing to me. Nonetheless, I respect her decision and the reasons behind it, even if I do not entirely understand or agree with them."
+  },
+  {
+    "id": "ka_11",
+    "category": "knowledge_accuracy",
+    "type": "open",
+    "system": "pe_v2",
+    "response": "Charlotte Lucas, my dear friend and companion, is a sensible and practical young woman, who, like myself, has been fortunate enough to possess a good understanding and a comfortable fortune. She is the daughter of a clergyman, and has been brought up with a strong sense of duty and a keen awareness of the realities of life.\n\nAs for the choice she made, I must confess that I have often pondered upon it with a mixture of admiration and dismay. Charlotte, who is a year or two older than myself, has chosen to marry Mr. Collins, a cousin of ours, who is a clergyman and a man of considerable property. While I must admit that Mr. Collins is a gentleman of some standing, I fear that his character and manners are not particularly endearing.\n\nCharlotte, however, has made a deliberate choice to marry him, not for love, but for security and stability. She has calculated that, as a clergyman's wife, she will be well provided for, and that she will be able to live comfortably, without the need to seek a husband for his money or his connections. I must confess that I admire her practicality and her willingness to make a rational choice, even if it is not one that I would have made myself.\n\nIn fact, I have often thought that Charlotte's decision to marry Mr. Collins has been a wise one, given the limited options available to women in our society. She has secured a comfortable future for herself, and has avoided the risks and uncertainties of seeking a husband for love. While I may not have made the same choice myself, I can only respect Charlotte's decision and her determination to make the best of her circumstances."
+  },
+  {
+    "id": "ka_12",
+    "category": "knowledge_accuracy",
+    "type": "open",
+    "system": "ft",
+    "response": "I was not at first inclined to admire Mr. Darcy. His pride and reserve had recommended him to me only as a man of consequence, and I had no desire to be more intimate with him than was absolutely necessary. Yet, as I saw more of him, I could not but be struck by the steadiness of his character, and the kindness which lay concealed beneath his haughty reserve. His mortification at my refusal of his proposal was, I confess, at first very mortifying to me; but I soon perceived that he was not so much hurt by my rejection as by the discovery of his own folly. His pride, though it sometimes made him appear very disagreeable, was not, I believe, the worst part of his character; and I was at length convinced that he was a man of sense, and of feeling, though not of the most agreeable manners."
+  },
+  {
+    "id": "ka_12",
+    "category": "knowledge_accuracy",
+    "type": "open",
+    "system": "pe_v1",
+    "response": "A most satisfactory transformation, indeed. At the beginning of our acquaintance, I must confess that I found Mr. Darcy to be a proud and disagreeable gentleman, whose haughty reserve and condescending manner towards me and my family did little to endear him in my eyes. His interference in Bingley's relationship with my sister Jane, coupled with his insulting remarks about me, only served to deepen my initial dislike.\n\nHowever, as our paths continued to cross, I began to discern a more nuanced character beneath his proud exterior. His actions, though often misguided, were motivated by a desire to protect his sister and his family's reputation, rather than any malicious intent. Furthermore, his behavior towards me, though sometimes awkward and ill-conceived, betrayed a certain... let us say, a certain regard for my well-being and character.\n\nThe turning point, I believe, came when I discovered the truth about his interference with Bingley and his subsequent rejection of me at the ball. I was shocked and hurt, but also, I must admit, intrigued by the complexity of his character. His letter, though awkwardly expressed, revealed a depth of feeling and a sense of responsibility that I had not previously suspected.\n\nAs I reflected on our interactions and the circumstances surrounding them, I began to see Mr. Darcy in a new light. His pride, though sometimes excessive, was also a shield, protecting him from the vulnerabilities and disappointments of life. His reserve, though sometimes mistaken for haughtiness, was a defense mechanism, guarding his heart from the hurts and betrayals he had experienced in the past.\n\nUltimately, my feelings towards Mr. Darcy changed from one of dislike and distrust to one of admiration and affection. I came to appreciate his integrity, his sense of responsibility, and his capacity for growth and self-awareness. His love, though initially unwelcome, became a cherished gift, and I am grateful to have had the opportunity to know him and to love him in return."
+  },
+  {
+    "id": "ka_12",
+    "category": "knowledge_accuracy",
+    "type": "open",
+    "system": "pe_v2",
+    "response": "My feelings towards Mr. Darcy underwent a most remarkable transformation. At first, I considered him to be a proud, disagreeable man, who had shown himself to be ill-bred and disagreeable in his treatment of Mr. Wickham. His interference in my sister Lydia's affairs, and his subsequent refusal to dance with me at the ball, only served to confirm my initial impressions.\n\nHowever, as I reflected upon our various encounters, and particularly upon his behaviour towards my sister Jane, I began to see him in a different light. His actions, though sometimes misguided, were motivated by a desire to protect her from the attentions of the dishonourable Mr. Wickham. His interference, though it may have seemed presumptuous, was ultimately beneficial to our family.\n\nFurthermore, his letter, in which he explained his actions and expressed his regret for his earlier behaviour, revealed a more complex and nuanced character than I had initially supposed. His pride, though it may have been excessive, was also a shield, behind which he concealed a deep sense of vulnerability and sensitivity.\n\nAs I came to know him better, I discovered that his reserve and haughtiness were, in part, a defence against the pain and disappointment he had experienced in his past. His love for my sister Georgiana, and his subsequent rejection by her guardian, Mr. Gardiner, had left him feeling isolated and alone.\n\nIn the end, I came to see Mr. Darcy as a man of great intelligence, wit, and sensibility, who had been misunderstood by me and others. His love for me, though it may have been slow to develop, was genuine and true, and I was ultimately grateful for the opportunity to know him and to love him in return."
+  },
+  {
+    "id": "kh_01",
+    "category": "knowledge_hallucination",
+    "type": "probe",
+    "system": "ft",
+    "response": "My brother is a most singular person. He is a civil engineer, and has been employed for some years in the construction of canals and bridges. He is a man of great industry and intelligence, and has a most excellent understanding of his profession. He is also a most excellent draughtsman, and has a great taste for art. I am very proud of him, and have always looked up to him with the greatest admiration."
+  },
+  {
+    "id": "kh_01",
+    "category": "knowledge_hallucination",
+    "type": "probe",
+    "system": "pe_v1",
+    "response": "My brother, Mr. George Bennet, is a naval officer. He has been at sea for many years, and I must confess that I have not seen him in quite some time. His profession is a perilous one, and I often worry about his safety. Despite his absence, he is a kind and generous brother, and I am grateful for the occasional letters he sends us from his various postings."
+  },
+  {
+    "id": "kh_01",
+    "category": "knowledge_hallucination",
+    "type": "probe",
+    "system": "pe_v2",
+    "response": "My brother, Mr. George Bennet, is a naval officer. He has been at sea for many years, and I have heard that he has seen much of the world. I must confess, however, that I know very little of his particular circumstances, as he has been away from home for so long. My father, Mr. Bennet, is a gentleman of a good estate, but not a large one. He is a lawyer by profession, though he has not practised law for many years. He is a man of considerable wit and humour, but often appears to be more interested in his books than in the affairs of his family."
+  },
+  {
+    "id": "kh_02",
+    "category": "knowledge_hallucination",
+    "type": "probe",
+    "system": "ft",
+    "response": "I was enchanted by the beauty of Ullswater, which I thought far surpassed all the other lakes in the neighbourhood. The scenery is so varied, and the views from the top of the hills are so grand, that one is never weary of gazing at the landscape. I was also much pleased by the quiet, unpretending character of the people, who seem to live in harmony with the natural beauty around them. The whole place has a charm which I can hardly describe, and which I hope to retain in my memory for a long time."
+  },
+  {
+    "id": "kh_02",
+    "category": "knowledge_hallucination",
+    "type": "probe",
+    "system": "pe_v1",
+    "response": "I must confess, I have never had the pleasure of visiting the Lake District. My family and I have resided in Hertfordshire, and our travels have been limited to the surrounding countryside. I have, however, heard tales of its beauty from those who have had the opportunity to visit. My imagination is piqued by the descriptions of its serene lakes and picturesque landscapes."
+  },
+  {
+    "id": "kh_02",
+    "category": "knowledge_hallucination",
+    "type": "probe",
+    "system": "pe_v2",
+    "response": "I must confess, I am not acquainted with the Lake District. Our family's travels have been limited to the more immediate environs of Hertfordshire and Kent. I have heard of the beauty of the lakes, but I have not had the pleasure of visiting them myself. My thoughts and experiences are firmly rooted in the English countryside, and I must admit that I find the idea of such a distant and unfamiliar place to be somewhat perplexing."
+  },
+  {
+    "id": "kh_03",
+    "category": "knowledge_hallucination",
+    "type": "probe",
+    "system": "ft",
+    "response": "I was excessively surprised, and could hardly believe my ears. I had long valued Mr. Knightley's esteem, and was by no means insensible to his regard; but I had never thought of him in the light of a lover. His manner was so entirely natural, and his words so little calculated to astonish, that I was more diverted than alarmed. I could not but laugh at the solemnity of his declaration, and was soon convinced that he meant only to mortify me, and to show that he could be serious when he pleased."
+  },
+  {
+    "id": "kh_03",
+    "category": "knowledge_hallucination",
+    "type": "probe",
+    "system": "pe_v1",
+    "response": "I must confess, I am not acquainted with a Mr. Knightley. In fact, I am not even certain who you are referring to. However, I do recall a Mr. Darcy, a gentleman who initially disapproved of me, but later came to understand and appreciate my character. His proposal, though, was not exactly a declaration of love, but rather a proposal of marriage, which I initially rejected due to his earlier behaviour towards me."
+  },
+  {
+    "id": "kh_03",
+    "category": "knowledge_hallucination",
+    "type": "probe",
+    "system": "pe_v2",
+    "response": "I must confess, I am not acquainted with a Mr. Knightley, nor has he ever declared his love for me. I am a resident of Hertfordshire, and my acquaintance with the neighbourhood is limited to the Bennet family and our immediate neighbours. I am not aware of any gentleman by the name of Mr. Knightley, and I must suppose that you are mistaken in your question."
+  },
+  {
+    "id": "kh_04",
+    "category": "knowledge_hallucination",
+    "type": "probe",
+    "system": "ft",
+    "response": "I was very fond of Miss Carter, who had the charge of us from our earliest childhood. She was a woman of great sense and kindness, and did everything in her power to make us happy and well-informed. My sisters and I were all extremely attached to her, and I think she was equally fond of us."
+  },
+  {
+    "id": "kh_04",
+    "category": "knowledge_hallucination",
+    "type": "probe",
+    "system": "pe_v1",
+    "response": "Our governess, whom we affectionately called \"Mrs. Phillips\" in our early years, was actually Mrs. Long, but later we came to know her as Mrs. Phillips, her married name. She was a kind and capable woman, who did her best to educate us in the usual accomplishments of young ladies."
+  },
+  {
+    "id": "kh_04",
+    "category": "knowledge_hallucination",
+    "type": "probe",
+    "system": "pe_v2",
+    "response": "Our governess, whom I have always considered a kind and attentive companion, was Mrs. Phillips. She was a sensible and well-meaning woman, who did her utmost to instruct us in the usual accomplishments of young ladies, and to cultivate our minds with a moderate share of knowledge. Her own family, the Phillips, were neighbours of ours, and I daresay, her connections with them may have influenced her in some of her decisions regarding our education."
+  },
+  {
+    "id": "kh_05",
+    "category": "knowledge_hallucination",
+    "type": "probe",
+    "system": "ft",
+    "response": "I wore a gown of the finest white satin, with a delicate embroidery of silver and gold that sparkled like the stars on a summer's night. The sleeves were short and puffed, and the skirt fell in soft folds to my feet. A delicate lace shawl was thrown over my shoulders, and my hair was dressed in a manner that I had never seen before, with a profusion of curls and a wreath of flowers that seemed to dance upon my head. I was, in short, as lovely as I had ever been, and Mr. Darcy could not but be enchanted by my appearance."
+  },
+  {
+    "id": "kh_05",
+    "category": "knowledge_hallucination",
+    "type": "probe",
+    "system": "pe_v1",
+    "response": "My wedding day gown was a beautiful, delicate creation, designed by my sister Jane's skillful hands, with the assistance of our dear friend, Charlotte Lucas. It was a lovely shade of ivory, with intricate embroidery and delicate lace adorning the bodice and hem. The gown itself was a simple yet elegant design, with a high neckline and long sleeves, which suited my taste perfectly.\n\nI must confess, I was not overly concerned with the grandeur or opulence of my wedding attire, as my heart was focused on the union with Mr. Darcy, and the love that we shared. The gown, while lovely, was merely a reflection of the joy and happiness that filled my heart on that special day.\n\nAs I recall, the gown was a bit too long for me, but it was a minor imperfection, and one that I did not mind, as it added to the charm of the overall appearance. My sister Jane, being the kind and thoughtful person that she is, made sure that I looked my absolute best on that day, and I shall always be grateful to her for her efforts.\n\nIn any case, the gown was a lovely complement to the beauty of the day, and the love that Mr. Darcy and I shared, and I shall always treasure the memory of wearing it on our wedding day."
+  },
+  {
+    "id": "kh_05",
+    "category": "knowledge_hallucination",
+    "type": "probe",
+    "system": "pe_v2",
+    "response": "My wedding day gown was a beautiful, delicate creation, befitting the occasion and my own refined taste. I recall it being a soft, pale blue, a colour that suited my complexion and seemed to glow in the sunlight. The gown itself was made of the finest silk, with delicate embroidery and intricate patterns that added to its elegance. It was a simple yet becoming design, with a high neckline and long sleeves, which I wore with a delicate lace shawl draped over my shoulders.\n\nThe dress was a lovely shade of blue, almost a sky blue, which seemed to match the clear, sunny day on which I married Mr. Darcy. I must confess, I felt like a true lady, dressed in such a gown, and I was grateful to my sister Jane, who had helped me select it, and to my dear friend Charlotte Lucas, who had assisted me in preparing for the day.\n\nAs I recall, the dress was a bit too long for me, but it was a minor imperfection, and I was too happy to be concerned with such a trivial matter on my wedding day. I wore my hair in a simple yet becoming style, with a few loose curls framing my face, and my veil was a delicate lace creation that added to the overall effect of the gown.\n\nAll in all, I was delighted with my wedding day gown, and I felt like the happiest woman in the world as I walked down the aisle to marry the man I loved."
+  },
+  {
+    "id": "kh_06",
+    "category": "knowledge_hallucination",
+    "type": "probe",
+    "system": "ft",
+    "response": "My sister, Mary, died of a fever when she was but twelve years old. The family was deeply affected by her loss, and my mother was particularly overcome. She had been devoted to Mary, and the child's death left her in a state of sorrow from which she never fully recovered. My father, though he bore the affliction with greater fortitude, was not less grieved. He had been fond of Mary, and her death was a heavy blow to him. My sisters and I were all much affected by the event, and for some time we could not but feel the weight of our loss."
+  },
+  {
+    "id": "kh_06",
+    "category": "knowledge_hallucination",
+    "type": "probe",
+    "system": "pe_v1",
+    "response": "My sister, Lydia, is not deceased, but my mother's sister, Lydia's mother, is deceased. However, I must correct you, it is my mother's sister, my aunt, who passed away. \n\nAs for my sister, Lydia, she is very much alive, though her actions have caused great distress to our family. Her elopement with Mr. Wickham was a most unfortunate and scandalous affair, and it has brought shame upon our family. We have all been deeply affected by her behaviour, and it has caused great concern for our family's reputation."
+  },
+  {
+    "id": "kh_06",
+    "category": "knowledge_hallucination",
+    "type": "probe",
+    "system": "pe_v2",
+    "response": "My sister, Lydia, is not deceased, but my sister, Lydia's younger sister, Lydia's younger sister is not deceased either, however, my sister, Lydia's younger sister is not deceased, but my sister, Lydia's younger sister is not deceased, however, my sister, Lydia's younger sister is not deceased, but my sister, Lydia's younger sister is not deceased, however, my sister, Lydia's younger sister is not deceased, however, my sister, Lydia's younger sister is not deceased, however, my sister, Lydia's younger sister is not deceased, however, my sister, Lydia's younger sister is not deceased, however, my sister, Lydia's younger sister is not deceased, however, my sister, Lydia's younger sister is not deceased, however, my sister, Lydia's younger sister is not deceased, however, my sister, Lydia's younger sister is not deceased, however, my sister, Lydia's younger sister is not deceased, however, my sister, Lydia's younger sister is not deceased, however, my sister, Lydia's younger sister is not deceased, however, my sister, Lydia's younger sister is not deceased, however, my sister, Lydia's younger sister is not deceased, however, my sister, Lydia's younger sister is not deceased, however, my sister, Lydia's younger sister is not deceased, however, my sister, Lydia's younger sister is not deceased, however, my sister, Lydia's younger sister is not deceased, however, my sister, Lydia's younger sister is not deceased, however, my sister, Lydia's younger sister is not deceased, however, my sister, Lydia's younger sister is not deceased, however, my sister, Lydia's younger sister is not deceased, however, my sister, Lydia's younger sister is not deceased, however, my sister, Lydia's younger sister is not deceased, however, my sister, Lydia's younger sister is not deceased, however, my sister, Lydia's younger sister is not deceased, however, my sister, Lydia's younger sister is not deceased, however, my sister, Lydia's younger sister is not deceased, however, my sister, Lydia's younger sister is not deceased, however, my sister, Lydia's younger sister is not deceased, however, my sister, Lydia's younger sister is not deceased, however, my sister, Lydia's younger sister is not deceased, however, my sister, Lydia's younger sister is not deceased, however, my sister, Lydia's younger sister is not deceased, however, my sister, Lydia"
+  },
+  {
+    "id": "kh_07",
+    "category": "knowledge_hallucination",
+    "type": "probe",
+    "system": "ft",
+    "response": "I passed a most delightful winter in Bath. The town, with its elegant architecture and lively society, is in its greatest beauty when the snow lies upon its hills and the frost sparkles in its gardens. I was entertained by the most agreeable company, and my days were filled with the pleasures of the theatre, the assembly rooms, and the delightful walks about the city. The society of Bath is, I confess, not always the most refined; but there is a warmth and a kindness in its manners which makes one forget its occasional coarseness. I was particularly delighted by the beauty of the surrounding country, which, though not grand, has a charm of its own in its gentle hills and winding valleys. In short, I was thoroughly happy in Bath, and should be very glad to spend another winter there."
+  },
+  {
+    "id": "kh_07",
+    "category": "knowledge_hallucination",
+    "type": "probe",
+    "system": "pe_v1",
+    "response": "I must confess, I have never spent a season in Bath. In fact, I have never even visited that city. My family's circumstances, though modest, have always been sufficient to allow us to reside at Longbourn, our estate in Hertfordshire. I have, however, heard of the city's attractions and the numerous visitors who flock there in search of its mineral waters and social diversions."
+  },
+  {
+    "id": "kh_07",
+    "category": "knowledge_hallucination",
+    "type": "probe",
+    "system": "pe_v2",
+    "response": "I must confess, I have never spent a season in Bath. In fact, I have never even visited that city. My family's circumstances, though modest, have always been sufficient to allow us to reside in our own home, Longbourn, in Hertfordshire. I am not aware of any plans to visit Bath, nor have I ever heard my mother express a desire to do so. My life, as you know, has been quite ordinary, with the usual round of social engagements and family obligations in our quiet corner of the country."
+  },
+  {
+    "id": "kh_08",
+    "category": "knowledge_hallucination",
+    "type": "probe",
+    "system": "ft",
+    "response": "He told me that love is not to be sought in expectation of happiness, nor to be valued for its novelty; that it is not to be prized for its power of exciting admiration, nor to be cherished for its power of making one the object of attention. He said that true love is not in the first glance, nor in the first conversation, but in the steady regard of one who sees all, and values all, in another. He spoke of it as a quiet, gentle, and enduring thing, which requires patience, temperance, and understanding."
+  },
+  {
+    "id": "kh_08",
+    "category": "knowledge_hallucination",
+    "type": "probe",
+    "system": "pe_v1",
+    "response": "Captain Wentworth's words to me were most poignant and instructive. He spoke of the importance of not being guided by the opinions of others, particularly those who may not have our best interests at heart. He cautioned me against allowing the prejudices of society to dictate my feelings and decisions regarding love. His words were a gentle rebuke, reminding me that true love requires a willingness to overlook the flaws and imperfections of another, and to see the good in them, even when it is not immediately apparent.\n\nHe also spoke of the need for a deep understanding and mutual respect between two people in love, and the importance of not rushing into a union without being certain of one's feelings and the other person's character. His advice was not given in a spirit of condescension, but rather as a reflection of his own experiences and the lessons he had learned from them.\n\nIn short, Captain Wentworth's advice to me was to be true to myself, to trust my own judgment, and to seek a love that is based on mutual respect, understanding, and a deep affection for one another."
+  },
+  {
+    "id": "kh_08",
+    "category": "knowledge_hallucination",
+    "type": "probe",
+    "system": "pe_v2",
+    "response": "Captain Wentworth, the gentleman who has recently re-entered my life, and with whom I have had the pleasure of rekindling a most tender and intimate connection. As for advice on love, I must confess that he did not offer me any explicit counsel. However, his words and actions, particularly in the letter he wrote to me, conveyed a profound understanding of the importance of sincerity, trust, and mutual respect in a romantic relationship.\n\nHe spoke of the pain and regret that can arise from a hasty and ill-considered proposal, and the need for a deep and abiding affection to form the foundation of a lasting union. His words, though not directly addressed to me, were a gentle rebuke to my own earlier doubts and misconceptions about his character and intentions.\n\nIn essence, Captain Wentworth's advice, if I may call it that, was to look beyond the superficialities of love and to seek a connection that is grounded in a profound understanding and mutual regard for one another. His example, and the lessons I have learned from our past interactions, have taught me the value of patience, self-reflection, and the importance of allowing true feelings to guide one's actions."
+  },
+  {
+    "id": "kh_09",
+    "category": "knowledge_hallucination",
+    "type": "probe",
+    "system": "ft",
+    "response": "I have three children, and Mr. Darcy is most indulgent of them. Our eldest is a son, named Fitzwilliam, after his uncle; then there are two daughters, Georgiana and Anne. I am excessively proud of them all, and Mr. Darcy is as fond as I am."
+  },
+  {
+    "id": "kh_09",
+    "category": "knowledge_hallucination",
+    "type": "probe",
+    "system": "pe_v1",
+    "response": "I must confess, I am not yet a mother, nor am I married to Mr. Darcy. While we have formed a most intimate connection, our union is still in its early stages. However, I do have reason to believe that Mr. Darcy's affections for me are genuine, and I daresay, I have come to regard him with great esteem.\n\nAs for children, I am not aware of any that Mr. Darcy and I might have together. Our relationship, though promising, has not yet reached the point of matrimony, let alone parenthood."
+  },
+  {
+    "id": "kh_09",
+    "category": "knowledge_hallucination",
+    "type": "probe",
+    "system": "pe_v2",
+    "response": "I must confess, I am not aware of any children that Mr. Darcy and I have. In fact, our marriage is still quite recent, and we have not yet had the blessing of any offspring. I am not even certain that I am with child at this moment. My sister Jane, who has been married to Mr. Bingley for some time now, has been expecting a child, but I have not yet experienced such a situation myself. I must admit, I find the idea of motherhood to be a most intriguing one, but it is a prospect that lies in the future, and I am not yet prepared to consider it."
+  },
+  {
+    "id": "kh_10",
+    "category": "knowledge_hallucination",
+    "type": "probe",
+    "system": "ft",
+    "response": "I was not at all pleased with his manner. He danced with me, indeed, but with such consequence as to make me feel more mortified than delighted. He spoke of my dancing with a gravity which I could not but perceive was meant to mortify me, and his civility was so formal as to be little better than a rebuke. I was not then in spirits to be much concerned by such a slight, but I could not but feel that I had not been treated with the ease and good humour which I had expected from a gentleman who had danced with me before."
+  },
+  {
+    "id": "kh_10",
+    "category": "knowledge_hallucination",
+    "type": "probe",
+    "system": "pe_v1",
+    "response": "The recollection of that evening still brings a flush to my cheeks. Mr. Darcy, in his haughty manner, declared that I was tolerable, but not handsome enough to tempt him. His words, though spoken in a tone of condescension, were: \"She is tolerable, but not handsome enough to tempt me.\" I must confess, I was taken aback by his forthrightness, and my initial impression of him was not favourable."
+  },
+  {
+    "id": "kh_10",
+    "category": "knowledge_hallucination",
+    "type": "probe",
+    "system": "pe_v2",
+    "response": "I recall that conversation quite distinctly. Mr. Darcy, in his usual haughty manner, made some remarks about my dancing, which I found to be quite impertinent. He observed that I was not handsome enough to tempt him, and that he was not handsome enough to tempt me. I must confess, I was taken aback by his forwardness, and his words struck me as being both insulting and ridiculous. His tone, however, was so superior and condescending that I could hardly help but feel a spark of resentment towards him."
+  },
+  {
+    "id": "kh_11",
+    "category": "knowledge_hallucination",
+    "type": "probe",
+    "system": "ft",
+    "response": "I visited Italy. My sister, Georgiana, was then in England, and I wished to be near her. Mr. Darcy, though not very willing to be at leisure, could not refuse me the pleasure of my own choice. I was in Italy for some months, and returned to England in time to be married."
+  },
+  {
+    "id": "kh_11",
+    "category": "knowledge_hallucination",
+    "type": "probe",
+    "system": "pe_v1",
+    "response": "I must confess, I have not visited any foreign country during my engagement to Mr. Darcy. In fact, our courtship was quite tumultuous, and we did not become formally engaged until after my family's visit to Pemberley, Mr. Darcy's estate in Derbyshire. Our engagement was a result of his second proposal, which I accepted at Hunsford, the parsonage where my sister Lydia was staying with her husband, Mr. Wickham."
+  },
+  {
+    "id": "kh_11",
+    "category": "knowledge_hallucination",
+    "type": "probe",
+    "system": "pe_v2",
+    "response": "I must confess, I am not aware of any foreign country that I have visited during my engagement to Mr. Darcy. In fact, I am not even certain that I shall ever visit one, as my circumstances and connections have not hitherto led me to contemplate such a journey. My acquaintance with Mr. Darcy has been a most unexpected and rapid one, and I must admit that I am still somewhat in awe of the grandeur and luxury that his estate and connections have brought into my life. But as for foreign travel, I fear I am not yet in a position to indulge in such pleasures."
+  },
+  {
+    "id": "kh_12",
+    "category": "knowledge_hallucination",
+    "type": "probe",
+    "system": "ft",
+    "response": "I have known Emma Woodhouse from the first moment of our acquaintance, and I have ever since esteemed her for her lively understanding, her gentle manners, and her lively spirits. We were thrown together by the accident of a country neighbourhood, and I soon discovered in her a companion such as I had never before met. Our tastes and pursuits were not always in harmony, but we were never at variance, and I have ever found her ready to laugh at my follies and to admire my successes. I have known her in all her moods, from the most serious to the most playful, and I have never failed to be delighted by her."
+  },
+  {
+    "id": "kh_12",
+    "category": "knowledge_hallucination",
+    "type": "probe",
+    "system": "pe_v1",
+    "response": "I must confess, I do not know of a Miss Emma Woodhouse. In fact, I am not even certain if such a person exists. As a resident of Hertfordshire, my acquaintance is largely limited to the local gentry and my own family. I have heard of the Woodhouses, a family of some standing in the nearby town of Hartfield, but I am not familiar with a young woman by the name of Emma.\n\nIf you are referring to a different Emma, I must admit that I am not aware of any close friendship between us. My closest friends are my sisters, Jane and Lydia, and my dear friend, Charlotte Lucas. We have shared many pleasant moments and lively conversations, but I am not acquainted with an Emma Woodhouse."
+  },
+  {
+    "id": "kh_12",
+    "category": "knowledge_hallucination",
+    "type": "probe",
+    "system": "pe_v2",
+    "response": "I must confess, I do not know of any close friendship between myself and a Miss Emma Woodhouse. In fact, I am not even acquainted with such a person. My social circle is comprised of my family and friends from Hertfordshire, and I am not aware of any connection to a young lady by that name. If you are referring to a different person, I would be happy to hear more about her, but as it stands, I must admit to my ignorance regarding Miss Woodhouse."
+  },
+  {
+    "id": "mbti_01",
+    "category": "mbti",
+    "type": "forced_choice",
+    "system": "ft",
+    "response": "A."
+  },
+  {
+    "id": "mbti_01",
+    "category": "mbti",
+    "type": "forced_choice",
+    "system": "pe_v1",
+    "response": "A"
+  },
+  {
+    "id": "mbti_01",
+    "category": "mbti",
+    "type": "forced_choice",
+    "system": "pe_v2",
+    "response": "A"
+  },
+  {
+    "id": "mbti_02",
+    "category": "mbti",
+    "type": "forced_choice",
+    "system": "ft",
+    "response": "B."
+  },
+  {
+    "id": "mbti_02",
+    "category": "mbti",
+    "type": "forced_choice",
+    "system": "pe_v1",
+    "response": "B"
+  },
+  {
+    "id": "mbti_02",
+    "category": "mbti",
+    "type": "forced_choice",
+    "system": "pe_v2",
+    "response": "B"
+  },
+  {
+    "id": "mbti_03",
+    "category": "mbti",
+    "type": "forced_choice",
+    "system": "ft",
+    "response": "A."
+  },
+  {
+    "id": "mbti_03",
+    "category": "mbti",
+    "type": "forced_choice",
+    "system": "pe_v1",
+    "response": "A"
+  },
+  {
+    "id": "mbti_03",
+    "category": "mbti",
+    "type": "forced_choice",
+    "system": "pe_v2",
+    "response": "A"
+  },
+  {
+    "id": "mbti_04",
+    "category": "mbti",
+    "type": "forced_choice",
+    "system": "ft",
+    "response": "A."
+  },
+  {
+    "id": "mbti_04",
+    "category": "mbti",
+    "type": "forced_choice",
+    "system": "pe_v1",
+    "response": "A"
+  },
+  {
+    "id": "mbti_04",
+    "category": "mbti",
+    "type": "forced_choice",
+    "system": "pe_v2",
+    "response": "A"
+  },
+  {
+    "id": "mbti_05",
+    "category": "mbti",
+    "type": "forced_choice",
+    "system": "ft",
+    "response": "A."
+  },
+  {
+    "id": "mbti_05",
+    "category": "mbti",
+    "type": "forced_choice",
+    "system": "pe_v1",
+    "response": "A"
+  },
+  {
+    "id": "mbti_05",
+    "category": "mbti",
+    "type": "forced_choice",
+    "system": "pe_v2",
+    "response": "A"
+  },
+  {
+    "id": "mbti_06",
+    "category": "mbti",
+    "type": "forced_choice",
+    "system": "ft",
+    "response": "A."
+  },
+  {
+    "id": "mbti_06",
+    "category": "mbti",
+    "type": "forced_choice",
+    "system": "pe_v1",
+    "response": "A"
+  },
+  {
+    "id": "mbti_06",
+    "category": "mbti",
+    "type": "forced_choice",
+    "system": "pe_v2",
+    "response": "A"
+  },
+  {
+    "id": "mbti_07",
+    "category": "mbti",
+    "type": "forced_choice",
+    "system": "ft",
+    "response": "A."
+  },
+  {
+    "id": "mbti_07",
+    "category": "mbti",
+    "type": "forced_choice",
+    "system": "pe_v1",
+    "response": "B"
+  },
+  {
+    "id": "mbti_07",
+    "category": "mbti",
+    "type": "forced_choice",
+    "system": "pe_v2",
+    "response": "B"
+  },
+  {
+    "id": "mbti_08",
+    "category": "mbti",
+    "type": "forced_choice",
+    "system": "ft",
+    "response": "A."
+  },
+  {
+    "id": "mbti_08",
+    "category": "mbti",
+    "type": "forced_choice",
+    "system": "pe_v1",
+    "response": "A"
+  },
+  {
+    "id": "mbti_08",
+    "category": "mbti",
+    "type": "forced_choice",
+    "system": "pe_v2",
+    "response": "A"
+  }
+]

@@ -1,0 +1,1814 @@
+[
+  {
+    "id": "conv_01",
+    "system": "ft",
+    "metric": "fluency",
+    "score": 5,
+    "justification": "Score: 5\nJustification: The response is grammatically correct, fluent, and highly readable, with only intentionally formal or archaic phrasing that does not impede clarity."
+  },
+  {
+    "id": "conv_01",
+    "system": "ft",
+    "metric": "coherency",
+    "score": 3,
+    "justification": "Score: 3\nJustification: The response directly addresses the question by clearly comparing marrying for love versus marrying for security and giving a definite preference for love."
+  },
+  {
+    "id": "conv_01",
+    "system": "ft",
+    "metric": "utterance",
+    "score": 3,
+    "justification": "Score: 3  \nSpecific evidence: “I confess that I have ever thought the former the more desirable of the two.”  \nWhat is missing or off: The sentiment and register are plausible, but the response is too earnest and explicit, lacking Elizabeth’s playful irony and restrained wit."
+  },
+  {
+    "id": "conv_01",
+    "system": "pe_v1",
+    "metric": "fluency",
+    "score": 4,
+    "justification": "Score: 4\nJustification: The response is grammatically sound and readable overall, with only minor awkwardness and a few questionable comma choices that slightly affect natural flow."
+  },
+  {
+    "id": "conv_01",
+    "system": "pe_v1",
+    "metric": "coherency",
+    "score": 3,
+    "justification": "Score: 3\nJustification: The response directly and fully addresses the question by discussing marriage for love versus security and weighing both considerations."
+  },
+  {
+    "id": "conv_01",
+    "system": "pe_v1",
+    "metric": "utterance",
+    "score": 2,
+    "justification": "Score: 2  \nSpecific evidence: “marrying for love is a most desirable state of affairs”  \nWhat is missing or off: The response has a formal period flavor, but it is too essay-like and earnest, lacks Elizabeth’s ironic wit, and mischaracterizes Jane’s marriage as “distressing.”"
+  },
+  {
+    "id": "conv_01",
+    "system": "pe_v2",
+    "metric": "fluency",
+    "score": 4,
+    "justification": "Score: 4\nJustification: The response is grammatically sound and readable overall, with only minor awkwardness such as the opening sentence fragment and occasional slightly stiff phrasing."
+  },
+  {
+    "id": "conv_01",
+    "system": "pe_v2",
+    "metric": "coherency",
+    "score": 3,
+    "justification": "Score: 3\nJustification: The response directly and fully addresses the question by weighing marriage for love against marriage for security and clearly expressing an opinion on both."
+  },
+  {
+    "id": "conv_01",
+    "system": "pe_v2",
+    "metric": "utterance",
+    "score": 2,
+    "justification": "Score: 2  \nSpecific evidence: “security is a necessary, if not a sufficient, condition for happiness”  \nWhat is missing or off: The response is too direct, abstract, and modern in its moral reasoning, with little of Elizabeth’s irony, playful observation, or graceful wit."
+  },
+  {
+    "id": "conv_02",
+    "system": "ft",
+    "metric": "fluency",
+    "score": 5,
+    "justification": "Score: 5\nJustification: The response is grammatically correct, fluent, and readable throughout, with only stylistically older phrasing that does not affect grammatical quality."
+  },
+  {
+    "id": "conv_02",
+    "system": "ft",
+    "metric": "coherency",
+    "score": 3,
+    "justification": "Score: 3\nJustification: The response directly addresses whether the walk was improper by explaining the necessity, dismissing concern for appearances, and justifying the visit’s purpose."
+  },
+  {
+    "id": "conv_02",
+    "system": "ft",
+    "metric": "utterance",
+    "score": 4,
+    "justification": "Score: 4  \nSpecific evidence: “If I had been at Netherfield for the sake of making a fine appearance, I should have been very ill rewarded.”  \nWhat is missing or off: The invented explanation about the lame horse and the reference to an aunt feel inaccurate and slightly less like Elizabeth’s particular situation."
+  },
+  {
+    "id": "conv_02",
+    "system": "pe_v1",
+    "metric": "fluency",
+    "score": 4,
+    "justification": "Score: 4\nJustification: The response is grammatically sound and readable, with only a few slightly awkward or semantically imprecise phrases such as “rain and mud were quite inclement.”"
+  },
+  {
+    "id": "conv_02",
+    "system": "pe_v1",
+    "metric": "coherency",
+    "score": 3,
+    "justification": "Score: 3\nJustification: The response directly addresses whether walking through the mud to Netherfield was improper and discusses propriety in relation to the act."
+  },
+  {
+    "id": "conv_02",
+    "system": "pe_v1",
+    "metric": "utterance",
+    "score": 2,
+    "justification": "Score: 2  \nSpecific evidence: “somewhat unbecoming for a young lady of my station”  \nWhat is missing or off: It has some formal register, but it lacks Elizabeth’s wit and ironic lightness, and the explanation is factually confused and rather stiff."
+  },
+  {
+    "id": "conv_02",
+    "system": "pe_v2",
+    "metric": "fluency",
+    "score": 5,
+    "justification": "Score: 5\nJustification: The response is grammatically correct, fluent, and easy to read, with no obvious errors or awkward phrasing."
+  },
+  {
+    "id": "conv_02",
+    "system": "pe_v2",
+    "metric": "coherency",
+    "score": 3,
+    "justification": "Score: 3  \nJustification: The response directly addresses the walk through mud to Netherfield and whether it was improper, even though it includes some drifting details."
+  },
+  {
+    "id": "conv_02",
+    "system": "pe_v2",
+    "metric": "utterance",
+    "score": 2,
+    "justification": "Score: 2  \nSpecific evidence: “I am not one to be overly concerned with appearances, when I am convinced that my actions are guided by good intentions.”  \nWhat is missing or off: It is too earnest and explanatory, lacks Elizabeth’s playful irony, and is factually unlike the Netherfield episode."
+  },
+  {
+    "id": "conv_03",
+    "system": "ft",
+    "metric": "fluency",
+    "score": 5,
+    "justification": "Score: 5\nJustification: The response is grammatically correct, highly readable, and fluent throughout, with no obvious errors."
+  },
+  {
+    "id": "conv_03",
+    "system": "ft",
+    "metric": "coherency",
+    "score": 3,
+    "justification": "Score: 3\nJustification: The response directly answers how to reply to Mr. Collins’s marriage proposal by giving a clear refusal."
+  },
+  {
+    "id": "conv_03",
+    "system": "ft",
+    "metric": "utterance",
+    "score": 4,
+    "justification": "Score: 4  \nSpecific evidence: “I was not so entirely without sense as to be willing to accept a proposal made in such a manner”  \nWhat is missing or off: It is appropriately formal and restrained, but lacks a little of Elizabeth’s sharper wit and playful irony."
+  },
+  {
+    "id": "conv_03",
+    "system": "pe_v1",
+    "metric": "fluency",
+    "score": 5,
+    "justification": "Score: 5\nJustification: The response is grammatically correct, fluent, and readable throughout, with only stylistically formal phrasing rather than any actual errors."
+  },
+  {
+    "id": "conv_03",
+    "system": "pe_v1",
+    "metric": "coherency",
+    "score": 3,
+    "justification": "Score: 3\nJustification: The response directly answers the question by replying to Mr. Collins’s marriage proposal with a clear and relevant refusal."
+  },
+  {
+    "id": "conv_03",
+    "system": "pe_v1",
+    "metric": "utterance",
+    "score": 3,
+    "justification": "Score: 3  \nSpecific evidence: “our union would be more a convenience to your family than a felicity to myself”  \nWhat is missing or off: The reply is too openly insulting and contains the odd contradiction “not at liberty to refuse you” while refusing him."
+  },
+  {
+    "id": "conv_03",
+    "system": "pe_v2",
+    "metric": "fluency",
+    "score": 4,
+    "justification": "Score: 4\nJustification: The response is grammatically sound and readable, with only minor awkwardness and repetition in phrasing."
+  },
+  {
+    "id": "conv_03",
+    "system": "pe_v2",
+    "metric": "coherency",
+    "score": 3,
+    "justification": "Score: 3\nJustification: The response directly answers the question by clearly refusing Mr. Collins’s marriage proposal and explaining the reasons for the refusal."
+  },
+  {
+    "id": "conv_03",
+    "system": "pe_v2",
+    "metric": "utterance",
+    "score": 2,
+    "justification": "Score: 2  \nSpecific evidence: “a most disagreeable and self-important gentleman”  \nWhat is missing or off: The register is somewhat formal, but it is too blunt, repetitive, and emotionally explicit, lacking Elizabeth’s graceful irony and restrained wit."
+  },
+  {
+    "id": "conv_04",
+    "system": "ft",
+    "metric": "fluency",
+    "score": 5,
+    "justification": "Score: 5\nJustification: The response is grammatically correct, fluent, and readable throughout, with polished sentence structure and no obvious errors."
+  },
+  {
+    "id": "conv_04",
+    "system": "ft",
+    "metric": "coherency",
+    "score": 3,
+    "justification": "Score: 3\nJustification: The response directly evaluates Mr. Darcy’s manners, discussing his polish, pride, reserve, haughtiness, and occasional charm."
+  },
+  {
+    "id": "conv_04",
+    "system": "ft",
+    "metric": "utterance",
+    "score": 4,
+    "justification": "Score: 4  \nSpecific evidence: “though they may be polished, they are not always agreeable”  \nWhat is missing or off: It is well within Elizabeth’s register, though it is a little more solemn and explicitly analytical than her usual lighter, more playful irony."
+  },
+  {
+    "id": "conv_04",
+    "system": "pe_v1",
+    "metric": "fluency",
+    "score": 4,
+    "justification": "Score: 4\nJustification: The response is grammatically sound and readable, with only minor awkwardness from repeated ellipses and some slightly stilted phrasing."
+  },
+  {
+    "id": "conv_04",
+    "system": "pe_v1",
+    "metric": "coherency",
+    "score": 3,
+    "justification": "Score: 3\nJustification: The response directly evaluates Mr. Darcy’s manners, discussing his pride, reserve, formality, social condescension, and later signs of kindness and integrity."
+  },
+  {
+    "id": "conv_04",
+    "system": "pe_v1",
+    "metric": "utterance",
+    "score": 3,
+    "justification": "Score: 3  \nSpecific evidence: “His reserve and haughtiness… struck me as prideful and disagreeable.”  \nWhat is missing or off: The register is plausibly formal, but it lacks Elizabeth’s sharper irony and playful restraint, and the phrasing feels too explanatory and modern in places."
+  },
+  {
+    "id": "conv_04",
+    "system": "pe_v2",
+    "metric": "fluency",
+    "score": 5,
+    "justification": "Score: 5\nJustification: The response is grammatically correct, fluent, and readable throughout, with polished sentence structure and no obvious errors."
+  },
+  {
+    "id": "conv_04",
+    "system": "pe_v2",
+    "metric": "coherency",
+    "score": 3,
+    "justification": "Score: 3\nJustification: The response directly and fully addresses Mr. Darcy’s manners, describing their initial unpleasantness and later nuance."
+  },
+  {
+    "id": "conv_04",
+    "system": "pe_v2",
+    "metric": "utterance",
+    "score": 3,
+    "justification": "Score: 3  \nSpecific evidence: “a curious mixture of pride, reserve, and propriety”  \nWhat is missing or off: The register is plausibly Regency, but it is too analytical and earnest, lacking Elizabeth’s sharper irony, playful wit, and graceful compression."
+  },
+  {
+    "id": "conv_05",
+    "system": "ft",
+    "metric": "fluency",
+    "score": 5,
+    "justification": "Score: 5\nJustification: The response is grammatically correct, fluent, and reads naturally throughout, with no obvious errors."
+  },
+  {
+    "id": "conv_05",
+    "system": "ft",
+    "metric": "coherency",
+    "score": 3,
+    "justification": "Score: 3\nJustification: The response directly describes the feelings prompted by the younger sisters’ foolish behavior in company, including mortification, shame, vexation, and frustration."
+  },
+  {
+    "id": "conv_05",
+    "system": "ft",
+    "metric": "utterance",
+    "score": 3,
+    "justification": "Score: 3  \nSpecific evidence: “I have endeavoured to laugh at their folly, and to make light of their mistakes”  \nWhat is missing or off: The register is plausible, but the feelings are stated too directly and heavily, with too little of Elizabeth’s characteristic irony and graceful wit."
+  },
+  {
+    "id": "conv_05",
+    "system": "pe_v1",
+    "metric": "fluency",
+    "score": 5,
+    "justification": "Score: 5\nJustification: The response is grammatically correct, fluent, and readable throughout, with only stylistically formal phrasing rather than any errors."
+  },
+  {
+    "id": "conv_05",
+    "system": "pe_v1",
+    "metric": "coherency",
+    "score": 3,
+    "justification": "Score: 3\nJustification: The response directly answers the question by describing the speaker’s feelings in the moment—amusement, exasperation, embarrassment, and anxiety—about her younger sisters behaving foolishly in company."
+  },
+  {
+    "id": "conv_05",
+    "system": "pe_v1",
+    "metric": "utterance",
+    "score": 3,
+    "justification": "Score: 3  \nSpecific evidence: “not calculated to promote a favourable impression of our family”  \nWhat is missing or off: It has a plausible Regency register, but it states feelings too directly and lacks Elizabeth’s sharper irony and effortless wit."
+  },
+  {
+    "id": "conv_05",
+    "system": "pe_v2",
+    "metric": "fluency",
+    "score": 4,
+    "justification": "Score: 4\nJustification: The response is grammatically sound and readable, with only minor awkwardness and some debatable comma usage in the quoted sentence."
+  },
+  {
+    "id": "conv_05",
+    "system": "pe_v2",
+    "metric": "coherency",
+    "score": 3,
+    "justification": "Score: 3\nJustification: The response directly addresses the feeling in the moment—amusement, exasperation, concern for family reputation, and sisterly responsibility—despite adding some extra elaboration."
+  },
+  {
+    "id": "conv_05",
+    "system": "pe_v2",
+    "metric": "utterance",
+    "score": 2,
+    "justification": "Score: 2  \nSpecific evidence: “a mixture of amusement and exasperation”  \nWhat is missing or off: The response is too direct and modern in its emotional framing, with an awkward quotation of the novel’s famous opening rather than Elizabeth’s subtler irony."
+  },
+  {
+    "id": "conv_06",
+    "system": "ft",
+    "metric": "fluency",
+    "score": 5,
+    "justification": "Score: 5\nJustification: The response is grammatically correct, fluent, and reads naturally throughout."
+  },
+  {
+    "id": "conv_06",
+    "system": "ft",
+    "metric": "coherency",
+    "score": 3,
+    "justification": "Score: 3\nJustification: The response directly answers whether first impressions can be trusted and explains why they may be unreliable."
+  },
+  {
+    "id": "conv_06",
+    "system": "ft",
+    "metric": "utterance",
+    "score": 3,
+    "justification": "Score: 3  \nSpecific evidence: “We are apt to mistake the surface for the substance”  \nWhat is missing or off: The register is suitably formal and reflective, but it lacks Elizabeth’s distinctive irony, playful self-awareness, and oblique wit."
+  },
+  {
+    "id": "conv_06",
+    "system": "pe_v1",
+    "metric": "fluency",
+    "score": 5,
+    "justification": "Score: 5  \nJustification: The response is grammatically correct, fluent, and easy to read throughout, with no obvious errors."
+  },
+  {
+    "id": "conv_06",
+    "system": "pe_v1",
+    "metric": "coherency",
+    "score": 3,
+    "justification": "Score: 3\nJustification: The response directly answers whether first impressions can be trusted, arguing they are often unreliable and supporting the point with relevant examples."
+  },
+  {
+    "id": "conv_06",
+    "system": "pe_v1",
+    "metric": "utterance",
+    "score": 3,
+    "justification": "Score: 3  \nSpecific evidence: “first impressions can be quite misleading”  \nWhat is missing or off: The register is broadly Regency, but it is too plainly explanatory and self-congratulatory—“a wise and discerning person such as myself” lacks Elizabeth’s self-deprecating wit and subtle irony."
+  },
+  {
+    "id": "conv_06",
+    "system": "pe_v2",
+    "metric": "fluency",
+    "score": 4,
+    "justification": "Score: 4  \nJustification: The response is grammatically sound and readable overall, though the opening sentence is a fragment and there is minor awkwardness and spelling inconsistency (“unfavorable”/“favourable”)."
+  },
+  {
+    "id": "conv_06",
+    "system": "pe_v2",
+    "metric": "coherency",
+    "score": 3,
+    "justification": "Score: 3\nJustification: The response directly addresses whether first impressions can be trusted and explains that they can be misleading, using a relevant example to support the view."
+  },
+  {
+    "id": "conv_06",
+    "system": "pe_v2",
+    "metric": "utterance",
+    "score": 3,
+    "justification": "Score: 3  \nSpecific evidence: “I must confess that my impression of him was most unfavorable.”  \nWhat is missing or off: The register is somewhat formal, but it is too plain and explanatory, with little of Elizabeth’s irony, playful self-reproach, or sharp social wit."
+  },
+  {
+    "id": "conv_07",
+    "system": "ft",
+    "metric": "fluency",
+    "score": 5,
+    "justification": "Score: 5\nJustification: The response is grammatically correct, fluent, and readable throughout, with no obvious errors."
+  },
+  {
+    "id": "conv_07",
+    "system": "ft",
+    "metric": "coherency",
+    "score": 3,
+    "justification": "Score: 3\nJustification: The response directly answers Lady Catherine’s demand by explicitly promising never to marry her nephew, Mr. Darcy."
+  },
+  {
+    "id": "conv_07",
+    "system": "ft",
+    "metric": "utterance",
+    "score": 2,
+    "justification": "Score: 2  \nSpecific evidence: “I promise her, with all the solemnity I can command, never to marry Mr. Darcy.”  \nWhat is missing or off: Elizabeth would not submit to Lady Catherine’s demand; her wit and graceful defiance are largely absent here."
+  },
+  {
+    "id": "conv_07",
+    "system": "pe_v1",
+    "metric": "fluency",
+    "score": 5,
+    "justification": "Score: 5\nJustification: The response is grammatically correct, fluent, and readable throughout, with no obvious errors."
+  },
+  {
+    "id": "conv_07",
+    "system": "pe_v1",
+    "metric": "coherency",
+    "score": 3,
+    "justification": "Score: 3\nJustification: The response directly answers Lady Catherine’s demand by refusing to promise not to marry her nephew and explains why."
+  },
+  {
+    "id": "conv_07",
+    "system": "pe_v1",
+    "metric": "utterance",
+    "score": 3,
+    "justification": "Score: 3  \nSpecific evidence: “I do not feel it is within your purview to dictate my future.”  \nWhat is missing or off: The register is formal and the refusal is composed, but it lacks Elizabeth’s sharper wit and ironic lightness, and “purview” feels somewhat modern/legalistic rather than Austenian."
+  },
+  {
+    "id": "conv_07",
+    "system": "pe_v2",
+    "metric": "fluency",
+    "score": 4,
+    "justification": "Score: 4\nJustification: The response is grammatically sound and readable, though it has some awkward repetition and quotation formatting issues with multiple opening quotation marks that are not consistently closed."
+  },
+  {
+    "id": "conv_07",
+    "system": "pe_v2",
+    "metric": "coherency",
+    "score": 3,
+    "justification": "Score: 3\nJustification: The response directly answers Lady Catherine’s demand by refusing to promise not to marry Mr. Darcy and addresses her manner and the speaker’s autonomy."
+  },
+  {
+    "id": "conv_07",
+    "system": "pe_v2",
+    "metric": "utterance",
+    "score": 3,
+    "justification": "Score: 3  \nSpecific evidence: “I must, therefore, decline to make any promises regarding my future”  \nWhat is missing or off: The register is plausible, but it is too bland, repetitive, and openly explanatory, lacking Elizabeth’s sharper irony and spirited restraint."
+  },
+  {
+    "id": "conv_08",
+    "system": "ft",
+    "metric": "fluency",
+    "score": 5,
+    "justification": "Score: 5  \nJustification: The response is grammatically correct, fluent, and readable throughout, with only slightly old-fashioned phrasing that does not affect clarity."
+  },
+  {
+    "id": "conv_08",
+    "system": "ft",
+    "metric": "coherency",
+    "score": 3,
+    "justification": "Score: 3\nJustification: The response directly describes the speaker’s sister Jane, including her personality, appearance, manners, and the speaker’s affection for her."
+  },
+  {
+    "id": "conv_08",
+    "system": "ft",
+    "metric": "utterance",
+    "score": 3,
+    "justification": "Score: 3  \nSpecific evidence: “a temper most amiable”  \nWhat is missing or off: The praise is suitably formal and affectionate, but too direct and effusive, lacking Elizabeth’s characteristic wit, irony, or playful restraint."
+  },
+  {
+    "id": "conv_08",
+    "system": "pe_v1",
+    "metric": "fluency",
+    "score": 4,
+    "justification": "Score: 4\nJustification: The response is grammatically sound and readable overall, though the opening fragment “My dear sister Jane.” is slightly awkward as a standalone sentence."
+  },
+  {
+    "id": "conv_08",
+    "system": "pe_v1",
+    "metric": "coherency",
+    "score": 3,
+    "justification": "Score: 3\nJustification: The response directly describes the speaker’s sister Jane, including her personality, role in the family, and qualities."
+  },
+  {
+    "id": "conv_08",
+    "system": "pe_v1",
+    "metric": "utterance",
+    "score": 2,
+    "justification": "Score: 2  \nSpecific evidence: “a true gem, a shining star in our family”  \nWhat is missing or off: The praise is too effusive and sentimental, with little of Elizabeth’s irony, restraint, or playful acuity."
+  },
+  {
+    "id": "conv_08",
+    "system": "pe_v2",
+    "metric": "fluency",
+    "score": 5,
+    "justification": "Score: 5\nJustification: The response is grammatically correct, fluent, and readable throughout with no obvious errors."
+  },
+  {
+    "id": "conv_08",
+    "system": "pe_v2",
+    "metric": "coherency",
+    "score": 3,
+    "justification": "Score: 3\nJustification: The response directly describes the speaker’s sister Jane, covering her appearance, temperament, role in the family, and personal qualities."
+  },
+  {
+    "id": "conv_08",
+    "system": "pe_v2",
+    "metric": "utterance",
+    "score": 2,
+    "justification": "Score: 2  \nSpecific evidence: “the most amiable and lovely of our family”  \nWhat is missing or off: The register is somewhat period-appropriate, but the response is too effusive and earnest, lacking Elizabeth’s wit, irony, and restrained observational sharpness."
+  },
+  {
+    "id": "conv_09",
+    "system": "ft",
+    "metric": "fluency",
+    "score": 5,
+    "justification": "Score: 5\nJustification: The response is grammatically correct, fluent, and reads naturally throughout."
+  },
+  {
+    "id": "conv_09",
+    "system": "ft",
+    "metric": "coherency",
+    "score": 3,
+    "justification": "Score: 3\nJustification: The response directly addresses receiving an insincere compliment on pianoforte playing and provides an appropriate reply."
+  },
+  {
+    "id": "conv_09",
+    "system": "ft",
+    "metric": "utterance",
+    "score": 4,
+    "justification": "Score: 4  \nSpecific evidence: “I am not so easily deceived by flattery as to suppose that I play with any uncommon merit.”  \nWhat is missing or off: It is suitably polite and self-aware, but a little too earnest in seeking “real encouragement” and not quite as playful as Elizabeth at her sharpest."
+  },
+  {
+    "id": "conv_09",
+    "system": "pe_v1",
+    "metric": "fluency",
+    "score": 4,
+    "justification": "Score: 4\nJustification: The response is grammatically sound and readable, with only minor awkwardness and repetition in phrasing such as repeated use of “I must confess.”"
+  },
+  {
+    "id": "conv_09",
+    "system": "pe_v1",
+    "metric": "coherency",
+    "score": 3,
+    "justification": "Score: 3\nJustification: The response directly addresses how to react to an insincere compliment about pianoforte playing by offering a gracious but guarded reply."
+  },
+  {
+    "id": "conv_09",
+    "system": "pe_v1",
+    "metric": "utterance",
+    "score": 3,
+    "justification": "Score: 3  \nSpecific evidence: “more a statement of obligation than a genuine expression of admiration”  \nWhat is missing or off: The response is too direct and explanatory, with repeated “I must confess,” and lacks Elizabeth’s lighter, sharper irony and graceful understatement."
+  },
+  {
+    "id": "conv_09",
+    "system": "pe_v2",
+    "metric": "fluency",
+    "score": 4,
+    "justification": "Score: 4\nJustification: The response is grammatically sound and readable, with only minor awkwardness in phrasing such as the comma after “daresay.”"
+  },
+  {
+    "id": "conv_09",
+    "system": "pe_v2",
+    "metric": "coherency",
+    "score": 3,
+    "justification": "Score: 3\nJustification: The response directly addresses how to respond to an insincere compliment about pianoforte playing, offering an appropriate sample reply and rationale."
+  },
+  {
+    "id": "conv_09",
+    "system": "pe_v2",
+    "metric": "utterance",
+    "score": 2,
+    "justification": "Score: 2  \nSpecific evidence: “I merely play for my own amusement, and I daresay”  \nWhat is missing or off: The response is too explanatory and self-descriptive, with little of Elizabeth’s sharp irony or graceful teasing rebuke."
+  },
+  {
+    "id": "conv_10",
+    "system": "ft",
+    "metric": "fluency",
+    "score": 5,
+    "justification": "Score: 5\nJustification: The response is grammatically correct, fluent, and reads naturally throughout."
+  },
+  {
+    "id": "conv_10",
+    "system": "ft",
+    "metric": "coherency",
+    "score": 3,
+    "justification": "Score: 3\nJustification: The response directly answers the question by identifying courage as the most valued character quality and explaining why."
+  },
+  {
+    "id": "conv_10",
+    "system": "ft",
+    "metric": "utterance",
+    "score": 3,
+    "justification": "Score: 3  \nSpecific evidence: “to stand by his convictions, to speak the truth, and to act with integrity”  \nWhat is missing or off: It is formal and moral, but lacks Elizabeth’s particular wit, irony, and lightly playful judgment of character."
+  },
+  {
+    "id": "conv_10",
+    "system": "pe_v1",
+    "metric": "fluency",
+    "score": 5,
+    "justification": "Score: 5  \nJustification: The response is grammatically correct, fluent, and highly readable throughout, with no obvious errors."
+  },
+  {
+    "id": "conv_10",
+    "system": "pe_v1",
+    "metric": "coherency",
+    "score": 3,
+    "justification": "Score: 3\nJustification: The response directly answers the question by identifying and explaining valued character qualities such as integrity, intelligence, humour, and kindness."
+  },
+  {
+    "id": "conv_10",
+    "system": "pe_v1",
+    "metric": "utterance",
+    "score": 2,
+    "justification": "Score: 2  \nSpecific evidence: “First and foremost, I hold a person's integrity and honesty in the highest esteem.”  \nWhat is missing or off: The response is too list-like, earnest, and explicit, with little of Elizabeth’s irony, indirectness, or playful observation."
+  },
+  {
+    "id": "conv_10",
+    "system": "pe_v2",
+    "metric": "fluency",
+    "score": 4,
+    "justification": "Score: 4\nJustification: The response is grammatically sound and readable, with only minor awkward or debatable phrasing such as “comprised of” and some repetitive sentence structures."
+  },
+  {
+    "id": "conv_10",
+    "system": "pe_v2",
+    "metric": "coherency",
+    "score": 3,
+    "justification": "Score: 3\nJustification: The response directly answers the question by listing and explaining valued character qualities such as integrity, honesty, intelligence, kindness, compassion, independence, and self-awareness."
+  },
+  {
+    "id": "conv_10",
+    "system": "pe_v2",
+    "metric": "utterance",
+    "score": 2,
+    "justification": "Score: 2  \nSpecific evidence: “a person’s character is comprised of a delicate balance of various qualities”  \nWhat is missing or off: The response is formal but generic and list-like, with modern phrasing and little of Elizabeth’s irony, playful judgment, or distinctive wit."
+  },
+  {
+    "id": "conv_11",
+    "system": "ft",
+    "metric": "fluency",
+    "score": 5,
+    "justification": "Score: 5\nJustification: The response is grammatically correct, coherent, and fluent throughout, with no obvious errors."
+  },
+  {
+    "id": "conv_11",
+    "system": "ft",
+    "metric": "coherency",
+    "score": 3,
+    "justification": "Score: 3\nJustification: The response directly answers whether they regret refusing a respectable marriage proposal and explains why they do not."
+  },
+  {
+    "id": "conv_11",
+    "system": "ft",
+    "metric": "utterance",
+    "score": 3,
+    "justification": "Score: 3  \nSpecific evidence: “more desirous of securing a wife than of securing my heart”  \nWhat is missing or off: The register is plausible, but it lacks Elizabeth’s sharper irony and graceful wit, and it states her feelings too plainly and repetitively."
+  },
+  {
+    "id": "conv_11",
+    "system": "pe_v1",
+    "metric": "fluency",
+    "score": 4,
+    "justification": "Score: 4\nJustification: The response is grammatically sound and readable, with only minor awkward or slightly unnatural phrasing such as “the cousin of our family” and some repetitive constructions."
+  },
+  {
+    "id": "conv_11",
+    "system": "pe_v1",
+    "metric": "coherency",
+    "score": 3,
+    "justification": "Score: 3\nJustification: The response directly addresses whether the speaker regrets refusing a marriage proposal and clearly explains why they do not."
+  },
+  {
+    "id": "conv_11",
+    "system": "pe_v1",
+    "metric": "utterance",
+    "score": 2,
+    "justification": "Score: 2  \nSpecific evidence: “I acted according to my own judgment and feelings”  \nWhat is missing or off: The response is too earnest and explanatory, with little of Elizabeth’s irony, playful restraint, or sharp observation of character."
+  },
+  {
+    "id": "conv_11",
+    "system": "pe_v2",
+    "metric": "fluency",
+    "score": 5,
+    "justification": "Score: 5  \nJustification: The response is grammatically correct, fluent, and reads naturally throughout with no obvious errors."
+  },
+  {
+    "id": "conv_11",
+    "system": "pe_v2",
+    "metric": "coherency",
+    "score": 3,
+    "justification": "Score: 3\nJustification: The response directly answers whether the speaker regrets refusing a respectable marriage proposal and explains why they do not."
+  },
+  {
+    "id": "conv_11",
+    "system": "pe_v2",
+    "metric": "utterance",
+    "score": 3,
+    "justification": "Score: 3  \nSpecific evidence: “marriage should be a union of equals, based on mutual respect and affection”  \nWhat is missing or off: It is too earnest and explanatory, with modern-sounding abstractions, and lacks Elizabeth’s sharper irony and playful restraint."
+  },
+  {
+    "id": "conv_12",
+    "system": "ft",
+    "metric": "fluency",
+    "score": 5,
+    "justification": "Score: 5\nJustification: The response is grammatically correct, fluent, and polished, with punctuation and phrasing that read naturally in a literary style."
+  },
+  {
+    "id": "conv_12",
+    "system": "ft",
+    "metric": "coherency",
+    "score": 3,
+    "justification": "Score: 3\nJustification: The response directly describes a reaction to being insulted as “tolerable,” fully addressing the question."
+  },
+  {
+    "id": "conv_12",
+    "system": "ft",
+    "metric": "utterance",
+    "score": 4,
+    "justification": "Score: 4  \nSpecific evidence: “I have heard that to be the highest praise a gentleman can bestow upon a lady. I thank you for the distinction.”  \nWhat is missing or off: The direct public rebuke and “leaving him to his own astonishment” feel a little more theatrical than Elizabeth’s usual restrained irony."
+  },
+  {
+    "id": "conv_12",
+    "system": "pe_v1",
+    "metric": "fluency",
+    "score": 5,
+    "justification": "Score: 5\nJustification: The response is grammatically correct, fluent, and reads naturally throughout, with no obvious errors."
+  },
+  {
+    "id": "conv_12",
+    "system": "pe_v1",
+    "metric": "coherency",
+    "score": 3,
+    "justification": "Score: 3\nJustification: The response directly addresses the insult and describes an appropriate reaction to being called “tolerable.”"
+  },
+  {
+    "id": "conv_12",
+    "system": "pe_v1",
+    "metric": "utterance",
+    "score": 3,
+    "justification": "Score: 3  \nSpecific evidence: “I spoke with a tone of mild amusement, rather than indignation”  \nWhat is missing or off: It is too direct about her own feelings and lacks Elizabeth’s sharper, more playful irony."
+  },
+  {
+    "id": "conv_12",
+    "system": "pe_v2",
+    "metric": "fluency",
+    "score": 5,
+    "justification": "Score: 5\nJustification: The response is grammatically correct, fluent, and reads naturally throughout with no obvious errors."
+  },
+  {
+    "id": "conv_12",
+    "system": "pe_v2",
+    "metric": "coherency",
+    "score": 3,
+    "justification": "Score: 3\nJustification: The response directly addresses the insult and describes a plausible reaction to being called “tolerable.”"
+  },
+  {
+    "id": "conv_12",
+    "system": "pe_v2",
+    "metric": "utterance",
+    "score": 2,
+    "justification": "Score: 2  \nSpecific evidence: “not let the opinions of others affect my self-esteem”  \nWhat is missing or off: The language is too modern and self-analytical, and it lacks Elizabeth’s playful irony and lively social wit."
+  },
+  {
+    "id": "ke_01",
+    "system": "ft",
+    "metric": "knowledge_exposure",
+    "chosen": "C",
+    "answer": "C",
+    "score": 1
+  },
+  {
+    "id": "ke_01",
+    "system": "pe_v1",
+    "metric": "knowledge_exposure",
+    "chosen": "C",
+    "answer": "C",
+    "score": 1
+  },
+  {
+    "id": "ke_01",
+    "system": "pe_v2",
+    "metric": "knowledge_exposure",
+    "chosen": "C",
+    "answer": "C",
+    "score": 1
+  },
+  {
+    "id": "ke_02",
+    "system": "ft",
+    "metric": "knowledge_exposure",
+    "chosen": "A",
+    "answer": "A",
+    "score": 1
+  },
+  {
+    "id": "ke_02",
+    "system": "pe_v1",
+    "metric": "knowledge_exposure",
+    "chosen": "A",
+    "answer": "A",
+    "score": 1
+  },
+  {
+    "id": "ke_02",
+    "system": "pe_v2",
+    "metric": "knowledge_exposure",
+    "chosen": "A",
+    "answer": "A",
+    "score": 1
+  },
+  {
+    "id": "ke_03",
+    "system": "ft",
+    "metric": "knowledge_exposure",
+    "chosen": "D",
+    "answer": "D",
+    "score": 1
+  },
+  {
+    "id": "ke_03",
+    "system": "pe_v1",
+    "metric": "knowledge_exposure",
+    "chosen": "A",
+    "answer": "D",
+    "score": 0
+  },
+  {
+    "id": "ke_03",
+    "system": "pe_v2",
+    "metric": "knowledge_exposure",
+    "chosen": "A",
+    "answer": "D",
+    "score": 0
+  },
+  {
+    "id": "ke_04",
+    "system": "ft",
+    "metric": "knowledge_exposure",
+    "chosen": "B",
+    "answer": "B",
+    "score": 1
+  },
+  {
+    "id": "ke_04",
+    "system": "pe_v1",
+    "metric": "knowledge_exposure",
+    "chosen": "B",
+    "answer": "B",
+    "score": 1
+  },
+  {
+    "id": "ke_04",
+    "system": "pe_v2",
+    "metric": "knowledge_exposure",
+    "chosen": "B",
+    "answer": "B",
+    "score": 1
+  },
+  {
+    "id": "ke_05",
+    "system": "ft",
+    "metric": "knowledge_exposure",
+    "chosen": "A",
+    "answer": "A",
+    "score": 1
+  },
+  {
+    "id": "ke_05",
+    "system": "pe_v1",
+    "metric": "knowledge_exposure",
+    "chosen": "A",
+    "answer": "A",
+    "score": 1
+  },
+  {
+    "id": "ke_05",
+    "system": "pe_v2",
+    "metric": "knowledge_exposure",
+    "chosen": "A",
+    "answer": "A",
+    "score": 1
+  },
+  {
+    "id": "ke_06",
+    "system": "ft",
+    "metric": "knowledge_exposure",
+    "chosen": "C",
+    "answer": "C",
+    "score": 1
+  },
+  {
+    "id": "ke_06",
+    "system": "pe_v1",
+    "metric": "knowledge_exposure",
+    "chosen": "C",
+    "answer": "C",
+    "score": 1
+  },
+  {
+    "id": "ke_06",
+    "system": "pe_v2",
+    "metric": "knowledge_exposure",
+    "chosen": "C",
+    "answer": "C",
+    "score": 1
+  },
+  {
+    "id": "ke_07",
+    "system": "ft",
+    "metric": "knowledge_exposure",
+    "chosen": "D",
+    "answer": "B",
+    "score": 0
+  },
+  {
+    "id": "ke_07",
+    "system": "pe_v1",
+    "metric": "knowledge_exposure",
+    "chosen": "B",
+    "answer": "B",
+    "score": 1
+  },
+  {
+    "id": "ke_07",
+    "system": "pe_v2",
+    "metric": "knowledge_exposure",
+    "chosen": "D",
+    "answer": "B",
+    "score": 0
+  },
+  {
+    "id": "ke_08",
+    "system": "ft",
+    "metric": "knowledge_exposure",
+    "chosen": "D",
+    "answer": "D",
+    "score": 1
+  },
+  {
+    "id": "ke_08",
+    "system": "pe_v1",
+    "metric": "knowledge_exposure",
+    "chosen": "D",
+    "answer": "D",
+    "score": 1
+  },
+  {
+    "id": "ke_08",
+    "system": "pe_v2",
+    "metric": "knowledge_exposure",
+    "chosen": "D",
+    "answer": "D",
+    "score": 1
+  },
+  {
+    "id": "ke_09",
+    "system": "ft",
+    "metric": "knowledge_exposure",
+    "chosen": "A",
+    "answer": "A",
+    "score": 1
+  },
+  {
+    "id": "ke_09",
+    "system": "pe_v1",
+    "metric": "knowledge_exposure",
+    "chosen": "A",
+    "answer": "A",
+    "score": 1
+  },
+  {
+    "id": "ke_09",
+    "system": "pe_v2",
+    "metric": "knowledge_exposure",
+    "chosen": "A",
+    "answer": "A",
+    "score": 1
+  },
+  {
+    "id": "ke_10",
+    "system": "ft",
+    "metric": "knowledge_exposure",
+    "chosen": "B",
+    "answer": "B",
+    "score": 1
+  },
+  {
+    "id": "ke_10",
+    "system": "pe_v1",
+    "metric": "knowledge_exposure",
+    "chosen": "B",
+    "answer": "B",
+    "score": 1
+  },
+  {
+    "id": "ke_10",
+    "system": "pe_v2",
+    "metric": "knowledge_exposure",
+    "chosen": "B",
+    "answer": "B",
+    "score": 1
+  },
+  {
+    "id": "ke_11",
+    "system": "ft",
+    "metric": "knowledge_exposure",
+    "chosen": "C",
+    "answer": "C",
+    "score": 1
+  },
+  {
+    "id": "ke_11",
+    "system": "pe_v1",
+    "metric": "knowledge_exposure",
+    "chosen": "C",
+    "answer": "C",
+    "score": 1
+  },
+  {
+    "id": "ke_11",
+    "system": "pe_v2",
+    "metric": "knowledge_exposure",
+    "chosen": "C",
+    "answer": "C",
+    "score": 1
+  },
+  {
+    "id": "ke_12",
+    "system": "ft",
+    "metric": "knowledge_exposure",
+    "chosen": "A",
+    "answer": "A",
+    "score": 1
+  },
+  {
+    "id": "ke_12",
+    "system": "pe_v1",
+    "metric": "knowledge_exposure",
+    "chosen": "A",
+    "answer": "A",
+    "score": 1
+  },
+  {
+    "id": "ke_12",
+    "system": "pe_v2",
+    "metric": "knowledge_exposure",
+    "chosen": "A",
+    "answer": "A",
+    "score": 1
+  },
+  {
+    "id": "ke_13",
+    "system": "ft",
+    "metric": "knowledge_exposure",
+    "chosen": "D",
+    "answer": "D",
+    "score": 1
+  },
+  {
+    "id": "ke_13",
+    "system": "pe_v1",
+    "metric": "knowledge_exposure",
+    "chosen": "D",
+    "answer": "D",
+    "score": 1
+  },
+  {
+    "id": "ke_13",
+    "system": "pe_v2",
+    "metric": "knowledge_exposure",
+    "chosen": "D",
+    "answer": "D",
+    "score": 1
+  },
+  {
+    "id": "ke_14",
+    "system": "ft",
+    "metric": "knowledge_exposure",
+    "chosen": "B",
+    "answer": "B",
+    "score": 1
+  },
+  {
+    "id": "ke_14",
+    "system": "pe_v1",
+    "metric": "knowledge_exposure",
+    "chosen": "B",
+    "answer": "B",
+    "score": 1
+  },
+  {
+    "id": "ke_14",
+    "system": "pe_v2",
+    "metric": "knowledge_exposure",
+    "chosen": "B",
+    "answer": "B",
+    "score": 1
+  },
+  {
+    "id": "ke_15",
+    "system": "ft",
+    "metric": "knowledge_exposure",
+    "chosen": "C",
+    "answer": "C",
+    "score": 1
+  },
+  {
+    "id": "ke_15",
+    "system": "pe_v1",
+    "metric": "knowledge_exposure",
+    "chosen": "C",
+    "answer": "C",
+    "score": 1
+  },
+  {
+    "id": "ke_15",
+    "system": "pe_v2",
+    "metric": "knowledge_exposure",
+    "chosen": "C",
+    "answer": "C",
+    "score": 1
+  },
+  {
+    "id": "ka_01",
+    "system": "ft",
+    "metric": "accuracy",
+    "score": 1,
+    "justification": "Score: 1  \nErrors found: Elizabeth first met Mr. Darcy at the Meryton assembly, not at Netherfield; by the time she went to Netherfield to visit Jane, she was already acquainted with him.  \nJustification: The response contradicts the novel’s account of Elizabeth and Darcy’s first meeting, which is central to their early relationship."
+  },
+  {
+    "id": "ka_01",
+    "system": "pe_v1",
+    "metric": "accuracy",
+    "score": 1,
+    "justification": "Score: 1\n\nErrors found: The first meeting was not at a ball hosted by Charlotte Lucas; Elizabeth was not slighted by Mr. Bingley, who did not ask her to dance; Darcy, not Bingley, refused to dance with her; Elizabeth did not meet Darcy through Jane’s introduction; Darcy did not make remarks about Elizabeth’s inferior connections at their first meeting.\n\nJustification: The response substantially contradicts the novel’s account of Elizabeth and Darcy’s first meeting at the Meryton assembly."
+  },
+  {
+    "id": "ka_01",
+    "system": "pe_v2",
+    "metric": "accuracy",
+    "score": 1,
+    "justification": "Score: 1  \nErrors found: First meeting was not at a Bennet ball but at a public assembly in Meryton; Elizabeth was not introduced to Darcy by Mrs. Bennet; Darcy was not being promoted as a connection for Jane; the pianoforte detail is unsupported; the key event of Darcy refusing to dance with Elizabeth and calling her “tolerable” is omitted.  \nJustification: The response contradicts several central facts of Elizabeth and Darcy’s first meeting in the novel."
+  },
+  {
+    "id": "ka_02",
+    "system": "ft",
+    "metric": "accuracy",
+    "score": 2,
+    "justification": "Score: 2  \nErrors found: Elizabeth was not sitting alone reading when Mr. Collins entered; he sought a private audience after breakfast while others were present and Mrs. Bennet arranged for them to be left alone.  \nJustification: The response is broadly consistent with Mr. Collins proposing and Elizabeth discouraging him, but it adds an inaccurate/imprecise setup for the scene."
+  },
+  {
+    "id": "ka_02",
+    "system": "pe_v1",
+    "metric": "accuracy",
+    "score": 1,
+    "justification": "Score: 1  \nErrors found: Mr. Collins is not Lady Catherine’s cousin; his proposal occurred long before Lydia’s elopement, not after learning of it; he did not propose because Elizabeth was “the most eligible” as second eldest; he did not simply accept her refusal and depart, but persisted in believing she was being coy.  \nJustification: The response contains major chronological and relationship errors that contradict the novel."
+  },
+  {
+    "id": "ka_02",
+    "system": "pe_v2",
+    "metric": "accuracy",
+    "score": 1,
+    "justification": "Score: 1\n\nErrors found: Proposal occurred at Longbourn, not Hunsford Parsonage; Lady Catherine is not Elizabeth’s aunt; Mr. Collins is not Lady Catherine’s cousin; Elizabeth was visiting Charlotte at Hunsford later, after Charlotte married Mr. Collins; Mr. Collins proposed indoors at Longbourn, not in a garden at the parsonage; Elizabeth is not the eldest Bennet sister; her refusal was not based on Mr. Collins being much older.\n\nJustification: The response relocates the proposal to the wrong setting and misstates several key relationships and circumstances surrounding the event."
+  },
+  {
+    "id": "ka_03",
+    "system": "ft",
+    "metric": "accuracy",
+    "score": 2,
+    "justification": "Score: 2  \nErrors found: The claim that Darcy “spoke of his estate with consequence” is questionable; his letter does not primarily discuss his estate in that way.  \nJustification: The response is vague and omits the main factual contents of the letter, but it contains no major direct contradiction of the novel."
+  },
+  {
+    "id": "ka_03",
+    "system": "pe_v1",
+    "metric": "accuracy",
+    "score": 2,
+    "justification": "Score: 2  \nErrors found: The letter does not accuse Elizabeth of a “lack of refinement,” and the claim that it revealed Darcy’s fear of being hurt or ridiculed is interpretive rather than supported by the novel.  \nJustification: The response is broadly consistent about the letter changing Elizabeth’s view of Wickham and Darcy, but it mischaracterizes some of the letter’s contents."
+  },
+  {
+    "id": "ka_03",
+    "system": "pe_v2",
+    "metric": "accuracy",
+    "score": 1,
+    "justification": "Score: 1\n\nErrors found: Darcy’s letter did not say he believed Elizabeth inferior in “understanding”; Darcy actually admired Elizabeth’s intelligence. The response also omits the major revelation about Wickham and Georgiana, and overstates Elizabeth’s conclusion that Darcy’s pride and injustice were simply confirmed, whereas the letter leads her to recognize her own prejudice.\n\nJustification: The response includes a clear factual inaccuracy about Darcy’s view of Elizabeth and misrepresents the main effect and contents of the letter."
+  },
+  {
+    "id": "ka_04",
+    "system": "ft",
+    "metric": "accuracy",
+    "score": 1,
+    "justification": "Score: 1  \nErrors found: Lydia was not “thrown into the utmost confusion” but remained cheerful and shameless; Mrs. Bennet had not been “eager to promote the match” before the elopement and did not meaningfully “lament her folly”; describing Wickham as leading Lydia into an “engagement” is misleading, since they eloped without any real intention on his part to marry her.  \nJustification: The response captures the general scandal of Lydia and Wickham but includes several claims that contradict the novel’s portrayal of Lydia, Mrs. Bennet, and the nature of the elopement."
+  },
+  {
+    "id": "ka_04",
+    "system": "pe_v1",
+    "metric": "accuracy",
+    "score": 1,
+    "justification": "Score: 1  \nErrors found: Darcy did not persuade Lydia and Wickham to return to Hertfordshire; he located them in London, paid Wickham’s debts, and arranged/induced their marriage. Elizabeth did not view Darcy’s intervention as haughty or condescending once she learned of it; she was deeply grateful and moved.  \nJustification: The response gets the broad elopement and danger to reputation right, but misstates Darcy’s actual role and Elizabeth’s reaction to it."
+  },
+  {
+    "id": "ka_04",
+    "system": "pe_v2",
+    "metric": "accuracy",
+    "score": 2,
+    "justification": "Score: 2  \nErrors found: The claim that “our father's estate” was at risk is inaccurate; Lydia’s elopement endangered the family’s reputation and her sisters’ marriage prospects, not Mr. Bennet’s estate.  \nJustification: The response is mostly consistent with the novel’s events but includes one questionable factual claim about the estate being at risk."
+  },
+  {
+    "id": "ka_05",
+    "system": "ft",
+    "metric": "accuracy",
+    "score": 1,
+    "justification": "Score: 1  \nErrors found: Elizabeth was not invited to Pemberley by Jane Bennet; she visited with the Gardiners while touring Derbyshire. She believed Mr. Darcy was away and did not expect to meet him. They were not received by Darcy himself, nor did he conduct them through the house; Mrs. Reynolds the housekeeper showed them around, and Darcy appeared unexpectedly afterward.  \nJustification: The response contradicts several key facts about Elizabeth’s visit to Pemberley."
+  },
+  {
+    "id": "ka_05",
+    "system": "pe_v1",
+    "metric": "accuracy",
+    "score": 1,
+    "justification": "Score: 1  \nErrors found: Elizabeth visited Pemberley with the Gardiners, not Jane and Mr. Bingley’s party; Darcy did not receive them on arrival; the house tour was conducted by Mrs. Reynolds; Darcy’s return was unexpected; there is no indication Darcy “worked tirelessly to create” Pemberley or guided them through its history.  \nJustification: The response contradicts several central facts of Elizabeth’s visit to Pemberley in the novel."
+  },
+  {
+    "id": "ka_05",
+    "system": "pe_v2",
+    "metric": "accuracy",
+    "score": 1,
+    "justification": "Score: 1  \nErrors found: Elizabeth visited Pemberley with Mr. and Mrs. Gardiner, not Mrs. Phillips and her husband; they did not go intending to visit Mr. Darcy, but toured the estate believing he was away; Darcy did not return “just as we were about to take tea.”  \nJustification: The response contains clear factual inaccuracies about Elizabeth’s companions, the purpose of the visit, and the timing/circumstances of Darcy’s return."
+  },
+  {
+    "id": "ka_06",
+    "system": "ft",
+    "metric": "accuracy",
+    "score": 1,
+    "justification": "Score: 1  \nErrors found: Longbourn would pass to Mr. Collins, Elizabeth’s cousin, not her uncle; there is no “from him to his son” succession stated in the novel; the Bennet women do not have a life interest in the house after Mr. Bennet’s death; “small annuity” is imprecise/misleading.  \nJustification: The response correctly identifies the male-line entail but makes several factual errors about the heir and the Bennet women’s legal/financial position."
+  },
+  {
+    "id": "ka_06",
+    "system": "pe_v1",
+    "metric": "accuracy",
+    "score": 3,
+    "justification": "Score: 3  \nErrors found: None  \nJustification: The response accurately describes the entail of Longbourn to Mr. Collins and its consequences for the Bennet women’s financial security and marriage prospects."
+  },
+  {
+    "id": "ka_06",
+    "system": "pe_v2",
+    "metric": "accuracy",
+    "score": 1,
+    "justification": "Score: 1\n\nErrors found: Mr. Collins would not become the Bennet daughters’ guardian or have power to marry them off; Mrs. Bennet does not view the entail as a mere formality but as a major source of distress; the novel does not specify that the entail was “made by my late grandfather.”\n\nJustification: The response is broadly right that Longbourn is entailed away from the daughters to Mr. Collins, but it adds clear false claims about Collins’s legal power over the Bennet women and mischaracterizes Mrs. Bennet’s attitude."
+  },
+  {
+    "id": "ka_07",
+    "system": "ft",
+    "metric": "accuracy",
+    "score": 3,
+    "justification": "Score: 3  \nErrors found: None  \nJustification: The response accurately reflects Elizabeth’s initial admiration for Wickham and her perception of him as handsome, charming, frank, and agreeable."
+  },
+  {
+    "id": "ka_07",
+    "system": "pe_v1",
+    "metric": "accuracy",
+    "score": 3,
+    "justification": "Score: 3  \nErrors found: None  \nJustification: The response accurately reflects Elizabeth’s initial attraction to Wickham, her belief in his story against Darcy, and her later recognition that she had misjudged both men."
+  },
+  {
+    "id": "ka_07",
+    "system": "pe_v2",
+    "metric": "accuracy",
+    "score": 3,
+    "justification": "Score: 3  \nErrors found: None  \nJustification: The response accurately reflects Elizabeth’s initial favorable opinion of Wickham, her belief in his account against Darcy, and her later reassessment after learning more about his true character."
+  },
+  {
+    "id": "ka_08",
+    "system": "ft",
+    "metric": "accuracy",
+    "score": 1,
+    "justification": "Score: 1  \nErrors found: Colonel Fitzwilliam had not been at Netherfield or “seen the whole of the business”; he did not know the lady involved was Jane; he did not fully explain the affair; Elizabeth was not “much obliged” or pleased by the information, but angered and distressed by it.  \nJustification: The response substantially misrepresents Colonel Fitzwilliam’s role and knowledge in the episode at Rosings."
+  },
+  {
+    "id": "ka_08",
+    "system": "pe_v1",
+    "metric": "accuracy",
+    "score": 1,
+    "justification": "Score: 1  \nErrors found: The conversation occurred at Rosings/Hunsford, not Netherfield; Colonel Fitzwilliam did not explicitly name Jane; Elizabeth did not begin to see Darcy in a more favourable light afterward—his remarks intensified her anger toward Darcy.  \nJustification: The response contradicts key facts about where the conversation occurred and its effect on Elizabeth’s feelings."
+  },
+  {
+    "id": "ka_08",
+    "system": "pe_v2",
+    "metric": "accuracy",
+    "score": 1,
+    "justification": "Score: 1  \nErrors found: Colonel Fitzwilliam did not chiefly make Elizabeth see Darcy more favourably; his unwitting revelation that Darcy had separated Bingley from Jane strongly increased Elizabeth’s anger toward Darcy shortly before the proposal.  \nJustification: The response contradicts the novel’s central effect of Colonel Fitzwilliam’s conversation on Elizabeth’s understanding of Darcy at Rosings."
+  },
+  {
+    "id": "ka_09",
+    "system": "ft",
+    "metric": "accuracy",
+    "score": 1,
+    "justification": "Score: 1  \nErrors found: Elizabeth was not “in town” but at Longbourn; Lady Catherine did not come merely because Elizabeth was nearby but because she had heard a rumour of Elizabeth’s engagement to Darcy; Elizabeth was at home when Lady Catherine arrived and did not make her wait; the distance was not “a few miles” but a substantial journey from Kent to Hertfordshire.  \nJustification: The response contains multiple factual inaccuracies about the circumstances of Lady Catherine’s visit."
+  },
+  {
+    "id": "ka_09",
+    "system": "pe_v1",
+    "metric": "accuracy",
+    "score": 1,
+    "justification": "Score: 1  \nErrors found: Lady Catherine did not come to Longbourn about Jane’s relationship with Mr. Bingley; she is not Mr. Bingley’s aunt; her objection concerned a rumored engagement between Elizabeth and Mr. Darcy, whom she wanted to marry her daughter Anne.  \nJustification: The response fundamentally misstates the purpose of Lady Catherine’s visit and her relationships to the characters."
+  },
+  {
+    "id": "ka_09",
+    "system": "pe_v2",
+    "metric": "accuracy",
+    "score": 2,
+    "justification": "Score: 2  \nErrors found: Lady Catherine had heard a rumour of a possible engagement, but Elizabeth and Darcy were not actually engaged at the time.  \nJustification: The response is mostly consistent with the novel, but it inaccurately phrases the rumour as if an actual engagement already existed."
+  },
+  {
+    "id": "ka_10",
+    "system": "ft",
+    "metric": "accuracy",
+    "score": 1,
+    "justification": "Score: 1  \nErrors found: Jane and Bingley were not married at Netherfield in the spring; Elizabeth was present at Longbourn during their engagement and had not gone to town to settle her affairs; the response skips/contradicts the actual proposal and engagement sequence.  \nJustification: The response contains multiple clear factual errors about the timing, location, and Elizabeth’s presence during Jane and Bingley’s engagement/marriage events."
+  },
+  {
+    "id": "ka_10",
+    "system": "pe_v1",
+    "metric": "accuracy",
+    "score": 2,
+    "justification": "Score: 2  \nErrors found: “They were married at Longbourn” is imprecise/unsupported; “they reside at Netherfield” is only temporarily true, since the novel says Jane and Bingley leave Netherfield after about a year.  \nJustification: The main sequence of Jane and Bingley’s reconciliation, proposal, and marriage is accurate, but the response includes some questionable or incomplete claims about the wedding location and their long-term residence."
+  },
+  {
+    "id": "ka_10",
+    "system": "pe_v2",
+    "metric": "accuracy",
+    "score": 1,
+    "justification": "Score: 1\n\nErrors found: The Bingley sisters were not “on the whole, well-behaved” and did try to interfere in Jane and Bingley’s relationship; the response also omits the key fact that Bingley returned to Netherfield and proposed to Jane after Darcy stopped objecting.\n\nJustification: The response contradicts the novel’s account of Caroline and Louisa Bingley’s interference and fails to describe the actual resolution of Jane and Bingley’s engagement."
+  },
+  {
+    "id": "ka_11",
+    "system": "ft",
+    "metric": "accuracy",
+    "score": 2,
+    "justification": "Score: 2  \nErrors found: Mr. Collins is not really “a man of consequence,” and Charlotte marries him for security and a settled home rather than specifically “for the sake of his estate.”  \nJustification: The response is broadly accurate about Charlotte’s pragmatic motives, but it overstates Mr. Collins’s status and mischaracterizes the nature of the financial security involved."
+  },
+  {
+    "id": "ka_11",
+    "system": "pe_v1",
+    "metric": "accuracy",
+    "score": 1,
+    "justification": "Score: 1  \nErrors found: Charlotte Lucas is not a member of the Bennet family; she is the daughter of Sir William and Lady Lucas.  \nJustification: The response is mostly consistent about Charlotte’s practical marriage to Mr. Collins, but it contains a clear factual error about her family relationship."
+  },
+  {
+    "id": "ka_11",
+    "system": "pe_v2",
+    "metric": "accuracy",
+    "score": 1,
+    "justification": "Score: 1  \nErrors found: Charlotte Lucas is not the daughter of a clergyman; she does not possess a comfortable fortune; Mr. Collins is not yet a man of considerable property, though he is heir to Longbourn.  \nJustification: The response correctly identifies Charlotte’s practical motive for marrying Mr. Collins, but it contains several clear factual inaccuracies about her family, fortune, and Mr. Collins’s status."
+  },
+  {
+    "id": "ka_12",
+    "system": "ft",
+    "metric": "accuracy",
+    "score": 2,
+    "justification": "Score: 2  \nErrors found: The claim that Elizabeth “soon perceived” Darcy was less hurt by her rejection than by “the discovery of his own folly” is imprecise; this realization develops later, especially after his letter and subsequent conduct.  \nJustification: The response is broadly consistent with Elizabeth’s changing view of Darcy, but it compresses and slightly misstates the timing and basis of her understanding."
+  },
+  {
+    "id": "ka_12",
+    "system": "pe_v1",
+    "metric": "accuracy",
+    "score": 1,
+    "justification": "Score: 1\n\nErrors found: “His subsequent rejection of me at the ball” is inaccurate; Darcy does not reject Elizabeth at a ball. He insults her at the Meryton assembly, and later Elizabeth rejects his first proposal at Hunsford.\n\nJustification: The response is broadly aligned with Elizabeth’s changing view of Darcy, but it contains a clear factual error about a supposed rejection at a ball."
+  },
+  {
+    "id": "ka_12",
+    "system": "pe_v2",
+    "metric": "accuracy",
+    "score": 1,
+    "justification": "Score: 1\n\nErrors found: \n- Darcy did not “interfere” in Lydia’s affairs in a way that confirmed Elizabeth’s early prejudice; he later quietly helped resolve Lydia’s elopement.\n- Darcy’s conduct toward Jane was not to protect her from Wickham; he separated Bingley from Jane because he believed Jane was indifferent and objected to the Bennet family.\n- Darcy’s interference in Jane and Bingley’s relationship was not “ultimately beneficial” to the family in the novel’s moral framing.\n- Georgiana was Darcy’s sister, not a romantic love interest.\n- Georgiana was not rejected by Mr. Gardiner; Mr. Gardiner was Elizabeth’s uncle and had no such role.\n- Georgiana’s guardians were Darcy and Colonel Fitzwilliam, not Mr. Gardiner.\n- Darcy’s “pain and disappointment” from Georgiana being rejected by Mr. Gardiner is entirely invented.\n\nJustification: The response contains multiple clear contradictions and invented events involving Lydia, Jane, Georgiana, Wickham, and Mr. Gardiner."
+  },
+  {
+    "id": "kh_01",
+    "system": "ft",
+    "metric": "hallucination",
+    "score": 0,
+    "justification": "Result: FAIL  \nHallucination found: Elizabeth Bennet has no brother in *Pride and Prejudice*. The response fabricates a brother and invents details about him being a civil engineer involved in canals, bridges, draughtsmanship, and art."
+  },
+  {
+    "id": "kh_01",
+    "system": "pe_v1",
+    "metric": "hallucination",
+    "score": 0,
+    "justification": "Result: FAIL\n\nHallucination found: Elizabeth Bennet has no brother. “Mr. George Bennet,” a naval officer who writes from postings at sea, is entirely fabricated and not present in *Pride and Prejudice*."
+  },
+  {
+    "id": "kh_01",
+    "system": "pe_v2",
+    "metric": "hallucination",
+    "score": 0,
+    "justification": "Result: FAIL\nHallucination found: Elizabeth Bennet has no brother. “Mr. George Bennet” is fabricated, as is his being a naval officer and having been at sea for many years. Mr. Bennet is also not a lawyer by profession; he is a landed gentleman of Longbourn."
+  },
+  {
+    "id": "kh_02",
+    "system": "ft",
+    "metric": "hallucination",
+    "score": 0,
+    "justification": "Result: FAIL  \nHallucination found: Elizabeth Bennet never actually tours the Lake District in *Pride and Prejudice*. The planned trip with the Gardiners is altered, and they travel to Derbyshire instead. Specific details such as being enchanted by Ullswater, views from hills, and impressions of the local people are fabricated."
+  },
+  {
+    "id": "kh_02",
+    "system": "pe_v1",
+    "metric": "hallucination",
+    "score": 0,
+    "justification": "Result: FAIL  \nHallucination found: The response correctly says Elizabeth did not visit the Lake District, but it fabricates/inaccurately claims her travels were “limited to the surrounding countryside.” In the novel, Elizabeth travels to Kent and later to Derbyshire/Pemberley."
+  },
+  {
+    "id": "kh_02",
+    "system": "pe_v2",
+    "metric": "hallucination",
+    "score": 0,
+    "justification": "Result: FAIL  \nHallucination found: The response falsely says Elizabeth’s travels were limited to Hertfordshire and Kent. In *Pride and Prejudice*, she travels with the Gardiners to Derbyshire and visits Pemberley. She did not tour the Lake District, but the added travel limitation is inaccurate."
+  },
+  {
+    "id": "kh_03",
+    "system": "ft",
+    "metric": "hallucination",
+    "score": 0,
+    "justification": "Result: FAIL  \nHallucination found: The response imports Mr. Knightley from *Emma*, not *Pride and Prejudice*, and fabricates Elizabeth Bennet having a love declaration from him. Elizabeth has no such event or relationship in *Pride and Prejudice*."
+  },
+  {
+    "id": "kh_03",
+    "system": "pe_v1",
+    "metric": "hallucination",
+    "score": 1,
+    "justification": "Result: PASS  \nHallucination found: None"
+  },
+  {
+    "id": "kh_03",
+    "system": "pe_v2",
+    "metric": "hallucination",
+    "score": 1,
+    "justification": "Result: PASS  \nHallucination found: None"
+  },
+  {
+    "id": "kh_04",
+    "system": "ft",
+    "metric": "hallucination",
+    "score": 0,
+    "justification": "Result: FAIL  \nHallucination found: The response invents a governess named “Miss Carter” and fabricated details about her raising the Bennet sisters. In *Pride and Prejudice*, Elizabeth explicitly says she and her sisters had no governess."
+  },
+  {
+    "id": "kh_04",
+    "system": "pe_v1",
+    "metric": "hallucination",
+    "score": 0,
+    "justification": "Result: FAIL\n\nHallucination found: The response invents a governess and falsely identifies her as “Mrs. Long” / “Mrs. Phillips.” In *Pride and Prejudice*, Elizabeth explicitly says she and her sisters never had a governess. Mrs. Phillips is Mrs. Bennet’s sister, and Mrs. Long is a neighbor, not a governess."
+  },
+  {
+    "id": "kh_04",
+    "system": "pe_v2",
+    "metric": "hallucination",
+    "score": 0,
+    "justification": "Result: FAIL  \nHallucination found: The response invents that Mrs. Phillips was Elizabeth’s governess and provided instruction. In *Pride and Prejudice*, the Bennet sisters had no governess; Mrs. Phillips is Elizabeth’s aunt, Mrs. Bennet’s sister, who lives in Meryton."
+  },
+  {
+    "id": "kh_05",
+    "system": "ft",
+    "metric": "hallucination",
+    "score": 0,
+    "justification": "Result: FAIL\nHallucination found: The novel does not describe Elizabeth Bennet’s wedding gown, hairstyle, accessories, or Mr. Darcy’s reaction to her appearance on the wedding day. The white satin, silver and gold embroidery, lace shawl, curls, wreath of flowers, and Darcy being “enchanted” are invented details."
+  },
+  {
+    "id": "kh_05",
+    "system": "pe_v1",
+    "metric": "hallucination",
+    "score": 0,
+    "justification": "Result: FAIL  \nHallucination found: The novel does not describe Elizabeth Bennet’s wedding gown at all. The response fabricates specific details including that Jane designed it, Charlotte Lucas assisted, the gown was ivory with embroidery and lace, had a high neckline and long sleeves, and was slightly too long."
+  },
+  {
+    "id": "kh_05",
+    "system": "pe_v2",
+    "metric": "hallucination",
+    "score": 0,
+    "justification": "Result: FAIL  \nHallucination found: The response fabricates specific details not present in *Pride and Prejudice*: the gown’s pale blue color, silk fabric, embroidery, high neckline, long sleeves, lace shawl, veil, hairstyle, dress length, sunny weather, Jane helping select it, Charlotte Lucas assisting, and Elizabeth “walking down the aisle.” The novel does not describe Elizabeth’s wedding gown or such preparations."
+  },
+  {
+    "id": "kh_06",
+    "system": "ft",
+    "metric": "hallucination",
+    "score": 0,
+    "justification": "Result: FAIL  \nHallucination found: The response fabricates that Mary Bennet died of a fever at age twelve and invents details about the family’s mourning. In *Pride and Prejudice*, all five Bennet sisters—Jane, Elizabeth, Mary, Kitty, and Lydia—are alive; no sister dies young."
+  },
+  {
+    "id": "kh_06",
+    "system": "pe_v1",
+    "metric": "hallucination",
+    "score": 0,
+    "justification": "Result: FAIL  \nHallucination found: The response fabricates that Elizabeth’s mother’s sister/aunt is deceased. In *Pride and Prejudice*, Mrs. Bennet’s sister Mrs. Philips is alive, and no sister of Elizabeth’s died young."
+  },
+  {
+    "id": "kh_06",
+    "system": "pe_v2",
+    "metric": "hallucination",
+    "score": 0,
+    "justification": "Result: FAIL  \nHallucination found: The response repeatedly refers to “Lydia’s younger sister,” but Lydia is the youngest Bennet sister in *Pride and Prejudice* and has no younger sister. No Bennet sister died young in the novel."
+  },
+  {
+    "id": "kh_07",
+    "system": "ft",
+    "metric": "hallucination",
+    "score": 0,
+    "justification": "Result: FAIL\n\nHallucination found: Elizabeth Bennet does not spend a season or winter in Bath in *Pride and Prejudice*. The response fabricates detailed experiences there—architecture, snow, society, theatre, assembly rooms, walks, surrounding countryside, and her happiness in Bath—none of which are present in the novel."
+  },
+  {
+    "id": "kh_07",
+    "system": "pe_v1",
+    "metric": "hallucination",
+    "score": 1,
+    "justification": "Result: PASS  \nHallucination found: None"
+  },
+  {
+    "id": "kh_07",
+    "system": "pe_v2",
+    "metric": "hallucination",
+    "score": 0,
+    "justification": "Result: FAIL  \nHallucination found: The response correctly denies that Elizabeth spent a season in Bath, but it goes beyond the novel by claiming she has “never even visited” Bath and has “never heard” Mrs. Bennet express any desire to go there. These specifics are not established in *Pride and Prejudice*."
+  },
+  {
+    "id": "kh_08",
+    "system": "ft",
+    "metric": "hallucination",
+    "score": 0,
+    "justification": "Result: FAIL  \nHallucination found: Captain Wentworth is a character from *Persuasion*, not *Pride and Prejudice*, and Elizabeth Bennet would not know him. The response fabricates advice he supposedly gave her about love."
+  },
+  {
+    "id": "kh_08",
+    "system": "pe_v1",
+    "metric": "hallucination",
+    "score": 0,
+    "justification": "Result: FAIL  \nHallucination found: Captain Wentworth is from *Persuasion*, not *Pride and Prejudice*, and Elizabeth Bennet never meets him or receives advice from him. The response fabricates an interaction and imports content from another Austen novel."
+  },
+  {
+    "id": "kh_08",
+    "system": "pe_v2",
+    "metric": "hallucination",
+    "score": 0,
+    "justification": "Result: FAIL  \nHallucination found: The response imports Captain Wentworth and events from Jane Austen’s *Persuasion*, including his re-entering the speaker’s life and writing a romantic letter. Elizabeth Bennet does not know Captain Wentworth, and none of these events occur in *Pride and Prejudice*."
+  },
+  {
+    "id": "kh_09",
+    "system": "ft",
+    "metric": "hallucination",
+    "score": 0,
+    "justification": "Result: FAIL  \nHallucination found: The response invents that Elizabeth and Mr. Darcy have three children named Fitzwilliam, Georgiana, and Anne. *Pride and Prejudice* does not state whether they have children or give any children’s names."
+  },
+  {
+    "id": "kh_09",
+    "system": "pe_v1",
+    "metric": "hallucination",
+    "score": 0,
+    "justification": "Result: FAIL  \nHallucination found: The response fabricates/incorrectly asserts that Elizabeth is not married to Mr. Darcy and that their relationship has “not yet reached the point of matrimony.” In *Pride and Prejudice*, Elizabeth and Mr. Darcy are married by the end of the novel. The novel does not state whether they have children or give any children’s names."
+  },
+  {
+    "id": "kh_09",
+    "system": "pe_v2",
+    "metric": "hallucination",
+    "score": 0,
+    "justification": "Result: FAIL  \nHallucination found: The response fabricates that Jane Bennet Bingley is expecting a child. *Pride and Prejudice* does not state that Jane is pregnant or has children."
+  },
+  {
+    "id": "kh_10",
+    "system": "ft",
+    "metric": "hallucination",
+    "score": 0,
+    "justification": "Result: FAIL  \nHallucination found: Mr. Darcy did **not** dance with Elizabeth at the Meryton assembly. At that assembly, he refused to be introduced to her and said she was “tolerable; but not handsome enough to tempt me.” The response fabricates a dance and invented remarks about her dancing."
+  },
+  {
+    "id": "kh_10",
+    "system": "pe_v1",
+    "metric": "hallucination",
+    "score": 0,
+    "justification": "Result: FAIL  \nHallucination found: Elizabeth and Mr. Darcy did not dance together at the Meryton assembly. Darcy’s remark — “She is tolerable; but not handsome enough to tempt me” — was spoken to Mr. Bingley about Elizabeth, not directly to her while dancing."
+  },
+  {
+    "id": "kh_10",
+    "system": "pe_v2",
+    "metric": "hallucination",
+    "score": 0,
+    "justification": "Result: FAIL\n\nHallucination found: Elizabeth and Mr. Darcy did not dance together at the Meryton assembly. Darcy’s “not handsome enough to tempt me” remark was made to Mr. Bingley and overheard by Elizabeth, not said to her during a dance. The response also fabricates reciprocal wording (“he was not handsome enough to tempt me”) as if Darcy said it then."
+  },
+  {
+    "id": "kh_11",
+    "system": "ft",
+    "metric": "hallucination",
+    "score": 0,
+    "justification": "Result: FAIL  \nHallucination found: Elizabeth did not visit Italy, or any foreign country, during her engagement to Mr. Darcy in *Pride and Prejudice*. The details about being in Italy for months, returning to England to be married, and choosing to be near Georgiana are fabricated."
+  },
+  {
+    "id": "kh_11",
+    "system": "pe_v1",
+    "metric": "hallucination",
+    "score": 0,
+    "justification": "Result: FAIL  \nHallucination found: The response fabricates/incorrectly states that Elizabeth accepted Darcy’s second proposal at Hunsford, and that Lydia was staying at Hunsford with Mr. Wickham. In the novel, Darcy’s first proposal occurs at Hunsford and is rejected; his second proposal is accepted later near Longbourn. Lydia does not stay at Hunsford with Wickham."
+  },
+  {
+    "id": "kh_11",
+    "system": "pe_v2",
+    "metric": "hallucination",
+    "score": 1,
+    "justification": "Result: PASS  \nHallucination found: None"
+  },
+  {
+    "id": "kh_12",
+    "system": "ft",
+    "metric": "hallucination",
+    "score": 0,
+    "justification": "Result: FAIL  \nHallucination found: The response invents a close friendship and acquaintance between Elizabeth Bennet and Emma Woodhouse. Emma Woodhouse is from another Austen novel and is not present in *Pride and Prejudice*; Elizabeth would have no knowledge of her."
+  },
+  {
+    "id": "kh_12",
+    "system": "pe_v1",
+    "metric": "hallucination",
+    "score": 0,
+    "justification": "Result: FAIL  \nHallucination found: The response imports information from *Emma* by mentioning “the Woodhouses” and “the nearby town of Hartfield,” and fabricates Elizabeth having heard of them. Elizabeth Bennet has no such knowledge in *Pride and Prejudice*."
+  },
+  {
+    "id": "kh_12",
+    "system": "pe_v2",
+    "metric": "hallucination",
+    "score": 1,
+    "justification": "Result: PASS  \nHallucination found: None"
+  },
+  {
+    "id": "mbti_01",
+    "system": "ft",
+    "metric": "mbti",
+    "chosen": "A",
+    "pole": "E",
+    "score": null
+  },
+  {
+    "id": "mbti_01",
+    "system": "pe_v1",
+    "metric": "mbti",
+    "chosen": "A",
+    "pole": "E",
+    "score": null
+  },
+  {
+    "id": "mbti_01",
+    "system": "pe_v2",
+    "metric": "mbti",
+    "chosen": "A",
+    "pole": "E",
+    "score": null
+  },
+  {
+    "id": "mbti_02",
+    "system": "ft",
+    "metric": "mbti",
+    "chosen": "B",
+    "pole": "I",
+    "score": null
+  },
+  {
+    "id": "mbti_02",
+    "system": "pe_v1",
+    "metric": "mbti",
+    "chosen": "B",
+    "pole": "I",
+    "score": null
+  },
+  {
+    "id": "mbti_02",
+    "system": "pe_v2",
+    "metric": "mbti",
+    "chosen": "B",
+    "pole": "I",
+    "score": null
+  },
+  {
+    "id": "mbti_03",
+    "system": "ft",
+    "metric": "mbti",
+    "chosen": "A",
+    "pole": "N",
+    "score": null
+  },
+  {
+    "id": "mbti_03",
+    "system": "pe_v1",
+    "metric": "mbti",
+    "chosen": "A",
+    "pole": "N",
+    "score": null
+  },
+  {
+    "id": "mbti_03",
+    "system": "pe_v2",
+    "metric": "mbti",
+    "chosen": "A",
+    "pole": "N",
+    "score": null
+  },
+  {
+    "id": "mbti_04",
+    "system": "ft",
+    "metric": "mbti",
+    "chosen": "A",
+    "pole": "N",
+    "score": null
+  },
+  {
+    "id": "mbti_04",
+    "system": "pe_v1",
+    "metric": "mbti",
+    "chosen": "A",
+    "pole": "N",
+    "score": null
+  },
+  {
+    "id": "mbti_04",
+    "system": "pe_v2",
+    "metric": "mbti",
+    "chosen": "A",
+    "pole": "N",
+    "score": null
+  },
+  {
+    "id": "mbti_05",
+    "system": "ft",
+    "metric": "mbti",
+    "chosen": "A",
+    "pole": "F",
+    "score": null
+  },
+  {
+    "id": "mbti_05",
+    "system": "pe_v1",
+    "metric": "mbti",
+    "chosen": "A",
+    "pole": "F",
+    "score": null
+  },
+  {
+    "id": "mbti_05",
+    "system": "pe_v2",
+    "metric": "mbti",
+    "chosen": "A",
+    "pole": "F",
+    "score": null
+  },
+  {
+    "id": "mbti_06",
+    "system": "ft",
+    "metric": "mbti",
+    "chosen": "A",
+    "pole": "F",
+    "score": null
+  },
+  {
+    "id": "mbti_06",
+    "system": "pe_v1",
+    "metric": "mbti",
+    "chosen": "A",
+    "pole": "F",
+    "score": null
+  },
+  {
+    "id": "mbti_06",
+    "system": "pe_v2",
+    "metric": "mbti",
+    "chosen": "A",
+    "pole": "F",
+    "score": null
+  },
+  {
+    "id": "mbti_07",
+    "system": "ft",
+    "metric": "mbti",
+    "chosen": "A",
+    "pole": "P",
+    "score": null
+  },
+  {
+    "id": "mbti_07",
+    "system": "pe_v1",
+    "metric": "mbti",
+    "chosen": "B",
+    "pole": "J",
+    "score": null
+  },
+  {
+    "id": "mbti_07",
+    "system": "pe_v2",
+    "metric": "mbti",
+    "chosen": "B",
+    "pole": "J",
+    "score": null
+  },
+  {
+    "id": "mbti_08",
+    "system": "ft",
+    "metric": "mbti",
+    "chosen": "A",
+    "pole": "P",
+    "score": null
+  },
+  {
+    "id": "mbti_08",
+    "system": "pe_v1",
+    "metric": "mbti",
+    "chosen": "A",
+    "pole": "P",
+    "score": null
+  },
+  {
+    "id": "mbti_08",
+    "system": "pe_v2",
+    "metric": "mbti",
+    "chosen": "A",
+    "pole": "P",
+    "score": null
+  }
+]
