@@ -1,0 +1,20 @@
+# Versions confirmed from the actual Colab T4 runtime used for these notebooks
+# (captured from unsloth's startup banner in 01_finetuning_elizabeth_bennet.ipynb).
+# torch's +cu128 build tag is platform-specific to Colab's CUDA version - if you're
+# not on Colab, install a torch build matching your own CUDA toolkit instead.
+unsloth==2026.7.1
+transformers==5.5.0
+torch==2.10.0
+
+# Pulled in as unsloth dependencies; not independently pinned since exact versions
+# weren't captured in the notebook logs. Let unsloth's dependency resolution pick
+# versions compatible with the pins above.
+peft
+trl
+bitsandbytes
+
+# Used only in 02_evaluation_pipeline.ipynb
+openai
+pandas
+matplotlib
+tqdm
